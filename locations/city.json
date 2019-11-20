@@ -1,0 +1,52 @@
+[
+  {
+    "uuid": "5e124b99-663a-4862-918b-b802b16aa976",
+    "name": "Periyanaickenpalayam",
+    "level": 3,
+    "type": "City",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam",
+    "parent": {
+      "uuid": "91c6b7b3-2dc3-45f4-8ae4-780ecb51a76b"
+    }
+  },
+  {
+    "uuid": "b3492ffc-b75e-4150-8776-b2c7f92a2a31",
+    "name": "Narasimmanaickenpalayam",
+    "level": 3,
+    "type": "City",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam",
+    "parent": {
+      "uuid": "91c6b7b3-2dc3-45f4-8ae4-780ecb51a76b"
+    }
+  },
+  {
+    "uuid": "5747f8c8-6827-46cc-a035-ead968bce128",
+    "name": "Bangalore",
+    "level": 3,
+    "type": "City",
+    "nameLineage": "Karnataka.Bangalore",
+    "parent": {
+      "uuid": "c3bc2509-7d96-4e3f-9f28-c5495be9f009"
+    }
+  },
+  {
+    "uuid": "f8f2febc-6ab6-4bb1-8368-53d37ed22582",
+    "name": "Hubli-Dharwad",
+    "level": 3,
+    "type": "City",
+    "nameLineage": "Karnataka.Hubli-Dharwad",
+    "parent": {
+      "uuid": "c3bc2509-7d96-4e3f-9f28-c5495be9f009"
+    }
+  },
+  {
+    "uuid": "8ec38662-a951-4aba-b78a-239c62dfdb6a",
+    "name": "Tiruchirappalli",
+    "level": 3,
+    "type": "City",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli",
+    "parent": {
+      "uuid": "91c6b7b3-2dc3-45f4-8ae4-780ecb51a76b"
+    }
+  }
+]

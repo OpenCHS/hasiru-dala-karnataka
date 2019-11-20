@@ -1,0 +1,3632 @@
+[
+  {
+    "uuid": "b31d44ff-fe5d-4445-942b-ec947f9864ab",
+    "name": "Ward No. 52",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 8.Ward No. 52",
+    "parent": {
+      "uuid": "2de335f2-f816-46ed-b931-e88c92af6239"
+    }
+  },
+  {
+    "uuid": "0686c92e-c62c-4d36-86b7-845b2ae7f982",
+    "name": "Nagarabhavi",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Nagarabhavi",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "9827a83f-9964-4d56-90f6-22fec7a3e671",
+    "name": "Ward No.6",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.6",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "b1133fec-3f2e-4027-8699-dc908cef5502",
+    "name": "Siddapura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Siddapura",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "383bf972-f82c-434c-b8b8-0f9083b8dbfb",
+    "name": "Ward No.44",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.44",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "c5e290a6-8b87-4b27-8ef7-5f2f62d4ea67",
+    "name": "Shanthi Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Shanthi Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "bbe8204e-776b-46ab-af91-4f5da3143672",
+    "name": "Ward No.12",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.12",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "374d4101-10e6-4cfb-98bb-a1167d490012",
+    "name": "Bagalakunte",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Dasarahalli.Bagalakunte",
+    "parent": {
+      "uuid": "a935b19a-aa69-4737-95bb-5149010d6a2d"
+    }
+  },
+  {
+    "uuid": "fff92dab-35fc-4346-b943-863493a0ea83",
+    "name": "Ramaswamy Palya",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Ramaswamy Palya",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "0e9c3581-11dc-4cc4-b9a9-c6934e51e349",
+    "name": "Agrahara Dasarahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Agrahara Dasarahalli",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "f518f209-de19-4f27-9c16-a0ad8bc35f97",
+    "name": "Ward No.2",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.2",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "bb423df1-03cd-4813-9dbe-52a8d1ae04ff",
+    "name": "Basavanagudi",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Basavanagudi",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "ce3d912f-106f-46b0-8a00-1bf2bb20e0c4",
+    "name": "Garudachar Palya",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Garudachar Palya",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "5eec0bce-5b06-4ed4-8527-4d54ab71f7df",
+    "name": "Ward No. 57",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 11.Ward No. 57",
+    "parent": {
+      "uuid": "a61f07a5-7785-41b5-baec-5ed4f85ca5da"
+    }
+  },
+  {
+    "uuid": "aa877c6a-5df8-4432-a4af-56e72aff943b",
+    "name": "Hombegowda Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Hombegowda Nagar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "20a32b00-344a-4fa5-b801-3e3ffe5327b2",
+    "name": "Ward No.37",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.37",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "023e4a64-efd0-4a23-9837-830ad0abbac2",
+    "name": "Prakash Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Prakash Nagar",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "bee20deb-94f1-44a2-ac48-676eb37a8d97",
+    "name": "Sarvagna Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Sarvagna Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "98feccfe-4db9-4852-8acf-e95dfd8543d0",
+    "name": "Ward No. 39",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 7.Ward No. 39",
+    "parent": {
+      "uuid": "78d2e827-70c3-42ce-b885-c7771361fd08"
+    }
+  },
+  {
+    "uuid": "4a631755-7d59-4877-bf99-fcaeb21dcb51",
+    "name": "Ward No.39",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.39",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "c7e74ad5-37b9-46a7-ba98-fb1c9d727850",
+    "name": "Sk Garden",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Sk Garden",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "ed02388d-71ee-4239-b828-653bb7682830",
+    "name": "Katriguppe",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Katriguppe",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "a4ab0c40-38ef-430d-8eb8-808ff7ba9006",
+    "name": "Marathahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Marathahalli",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "d4285e05-6b50-4858-9e39-db73a62a7f27",
+    "name": "Bharathi Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Bharathi Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "7ccffaab-6389-4df3-8cc6-ac56de2bfac6",
+    "name": "Ward No. 3",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 3.Ward No. 3",
+    "parent": {
+      "uuid": "af53b27b-7e56-422c-9c8d-96550add2929"
+    }
+  },
+  {
+    "uuid": "ae815266-06e5-45c5-8259-f867c158afc8",
+    "name": "Vishveshwara Puram",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Vishveshwara Puram",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "057c237f-0cdb-4d90-a533-8c024343cde6",
+    "name": "Begur",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Begur",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "9ee7bc31-513a-4f67-abbd-3ead7fda8625",
+    "name": "Ward No.28",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.28",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "796cde55-cc97-40c2-af13-ee208eae4221",
+    "name": "Vrisahbhavathi Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Vrisahbhavathi Nagar",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "25d2b40f-dbf3-4bdb-a716-9a63696e61a0",
+    "name": "Gandhi Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Gandhi Nagar",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "355d9e19-b3a2-4f0a-a3d9-3401181ab403",
+    "name": "Nandini Layout",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Nandini Layout",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "76b7ac75-d046-44b1-85e8-ba452658939f",
+    "name": "Halsoor",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Halsoor",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "3030163b-0d43-4037-b20a-1ef2b7deb054",
+    "name": "Bilekhalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Bilekhalli",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "4bafd10c-a9cf-4212-b288-04de4800330c",
+    "name": "Kamakshipalya",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Kamakshipalya",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "32053289-c9f4-4202-80cb-e771d297fcd6",
+    "name": "Hsr Layout",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Hsr Layout",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "b1326445-d359-48e8-bd5f-4a79b774fc0c",
+    "name": "Ward No.64",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.64",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "63a1113d-7f46-4c1e-ac55-02453f4966b2",
+    "name": "Ward No.17",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.17",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "19de5895-9270-423e-a7c2-1adc0a977fdc",
+    "name": "Hosakerehalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Hosakerehalli",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "8f754883-11d7-41a8-a9eb-08d974eed87d",
+    "name": "Yeshwanthpura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari.Yeshwanthpura",
+    "parent": {
+      "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b"
+    }
+  },
+  {
+    "uuid": "85af2933-7840-481b-8a00-4b1dabe8e54b",
+    "name": "Mallasandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Dasarahalli.Mallasandra",
+    "parent": {
+      "uuid": "a935b19a-aa69-4737-95bb-5149010d6a2d"
+    }
+  },
+  {
+    "uuid": "a35421d3-2b2c-45d0-9a00-3dada3f23269",
+    "name": "Puttenahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Puttenahalli",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "43ac2a6a-b714-45e2-bba5-19bccd8d4c43",
+    "name": "Chowdeswari Ward",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Yelahanka.Chowdeswari Ward",
+    "parent": {
+      "uuid": "7768ce2c-f32f-4257-8a8c-26eeeaf5b35c"
+    }
+  },
+  {
+    "uuid": "b77f8794-abda-4464-b1da-f2435f984ad4",
+    "name": "Kadu Malleshwara Ward",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Kadu Malleshwara Ward",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "1ee7466a-a1c3-4b05-8e12-90a267592d8a",
+    "name": "Kaval Bairasandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Kaval Bairasandra",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "f537b10d-e779-48ae-ab43-4fbe29b05a5e",
+    "name": "Ward No. 5",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 2.Ward No. 5",
+    "parent": {
+      "uuid": "c4e53ceb-428e-445f-bcf2-0604fe221c10"
+    }
+  },
+  {
+    "uuid": "b783144c-d358-4b31-8a12-f87a5ef3749d",
+    "name": "Banashankari Temple Ward",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Banashankari Temple Ward",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "e0fbe2a2-55be-4bf7-98a6-634625f4edf4",
+    "name": "Shettihalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Dasarahalli.Shettihalli",
+    "parent": {
+      "uuid": "a935b19a-aa69-4737-95bb-5149010d6a2d"
+    }
+  },
+  {
+    "uuid": "4c7c2898-8a45-4aca-8cb4-b711ff534dc9",
+    "name": "Vijnana Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Vijnana Nagar",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "7243e77f-57b9-4440-8339-40ff33c8f039",
+    "name": "Govindaraja Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Govindaraja Nagar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "2f344e88-38e3-47c8-bdfb-0bce4b8cd40a",
+    "name": "Nayandahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Nayandahalli",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "fd6e434c-f700-492a-b82c-5d09f7ec34e5",
+    "name": "Ward No.1",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.1",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "e6c8f3a9-7784-4338-a8b0-4957e555bf00",
+    "name": "Konankunte",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Konankunte",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "6ee154b5-7789-4110-9c54-407916ebe305",
+    "name": "Ward No.32",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.32",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "83e15fa4-bbe3-48a3-b24f-55cb888cf281",
+    "name": "Ward No.9",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.9",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "7b56b6bc-b8ce-45cc-8cb5-ced1fdcce747",
+    "name": "Gurappana Palya",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Gurappana Palya",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "b228c000-3e33-47d2-a095-e9a6dd208ed8",
+    "name": "Ward No. 31",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 6.Ward No. 31",
+    "parent": {
+      "uuid": "978cf3c0-ce9b-4529-8d1d-0d21160bf133"
+    }
+  },
+  {
+    "uuid": "6206478b-dbc4-4c07-97b1-796e3ac803be",
+    "name": "Ward No.41",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.41",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "7874d4b7-3335-4f6c-ac5f-9f7037b8e15b",
+    "name": "Vishwanathnagenahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Vishwanathnagenahalli",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "a3a259bc-3204-4db9-8283-5ff46b608016",
+    "name": "Kadugondanahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Kadugondanahalli",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "1ce2aad5-f9d6-4af3-9b4e-3787628a559a",
+    "name": "Ward No.53",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.53",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "594969a3-5a3d-4c7d-8220-313ecebc1eb4",
+    "name": "Hal Airport",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Hal Airport",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "ec428c69-d592-43b7-8e75-fe645e38f04d",
+    "name": "Ward No. 22",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 4.Ward No. 22",
+    "parent": {
+      "uuid": "0b8dc58f-61d8-4c0a-ae79-c1210ab76c92"
+    }
+  },
+  {
+    "uuid": "dac6896d-d1bc-421a-a8de-a2117efbb903",
+    "name": "Vidyaranyapura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Yelahanka.Vidyaranyapura",
+    "parent": {
+      "uuid": "7768ce2c-f32f-4257-8a8c-26eeeaf5b35c"
+    }
+  },
+  {
+    "uuid": "613a4788-9969-440a-84ca-0961ed0f8118",
+    "name": "Hampi Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Hampi Nagar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "f93118f6-93e8-40dc-9c48-bbbfb20bc3e1",
+    "name": "Ward No.61",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.61",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "2d2ac19d-6e9f-44da-8b43-8539d6737597",
+    "name": "Ward No.38",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.38",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "f836b88e-5659-4b57-a0bb-abf58fbc6203",
+    "name": "Ward No.27",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.27",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "d37bd4d7-cfbf-410e-9077-4708087e5e0d",
+    "name": "C.V. Raman Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.C.V. Raman Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "988052d9-2f18-4d42-8d3e-0de1630e7423",
+    "name": "Binni Pete",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Binni Pete",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "30150c17-2491-472b-aed7-76358fd7ae2b",
+    "name": "Ward No. 35",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 5.Ward No. 35",
+    "parent": {
+      "uuid": "b1b32dcf-30d9-4abb-b7f2-65c5a17d6dfa"
+    }
+  },
+  {
+    "uuid": "49345613-e72a-423c-9a7c-9058bad0dc3d",
+    "name": "Ward No.47",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.47",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "e0513147-2c04-404d-aa50-bb98f23e45f0",
+    "name": "Ward No.11",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.11",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "fd2fe751-75cb-4742-bd96-59b2642011c3",
+    "name": "Vidya Peeta Ward",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Vidya Peeta Ward",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "c9fc85c8-9d5b-4847-9e22-64a4a101ae80",
+    "name": "Ward No.14",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.14",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "e34dd926-1b2c-4b17-bd34-f2ef793d1067",
+    "name": "Kr Puram",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Kr Puram",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "ffc2c503-3ed8-4ce5-8581-c7313bbc34fb",
+    "name": "T Dasarahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Dasarahalli.T Dasarahalli",
+    "parent": {
+      "uuid": "a935b19a-aa69-4737-95bb-5149010d6a2d"
+    }
+  },
+  {
+    "uuid": "8ffbab32-eb00-42be-ac0d-73d09aed662f",
+    "name": "Ward No. 9",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 2.Ward No. 9",
+    "parent": {
+      "uuid": "c4e53ceb-428e-445f-bcf2-0604fe221c10"
+    }
+  },
+  {
+    "uuid": "c9288f80-afad-4f5c-986e-0558d59aff62",
+    "name": "Dodda Bidarakallu",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari.Dodda Bidarakallu",
+    "parent": {
+      "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b"
+    }
+  },
+  {
+    "uuid": "042235f8-bce7-4938-a6bb-2faab94ea665",
+    "name": "Vijaya Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Vijaya Nagar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "9b52db48-634b-41e6-a46c-5f566862d42b",
+    "name": "Kodigehalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Yelahanka.Kodigehalli",
+    "parent": {
+      "uuid": "7768ce2c-f32f-4257-8a8c-26eeeaf5b35c"
+    }
+  },
+  {
+    "uuid": "d8542dd8-8364-46b7-8e19-1502d519f4e1",
+    "name": "Radhakrishna Temple Ward",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Radhakrishna Temple Ward",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "9c5dee60-b5b4-465c-b068-5aa99325132b",
+    "name": "Sanjaya Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Sanjaya Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "8d929958-2b70-4168-ae0c-e3c5316ccafc",
+    "name": "Kr Market",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Kr Market",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "13b41d61-6527-4a48-ae86-a0938b17a313",
+    "name": "Nagavara",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Nagavara",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "bdd94f21-aaf1-4c45-9b38-6a6c078b89fe",
+    "name": "Kadugodi",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Kadugodi",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "a6d3e214-72ad-4ebc-a849-83c406eceadc",
+    "name": "Ward No.14",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.14",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "31028170-008a-43f9-94ec-91eeec7279fa",
+    "name": "Ward No.15",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.15",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "f1f7ab4f-832c-4d92-ae94-b6837327a146",
+    "name": "Ward No.10",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.10",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "68fb3629-3197-4cb4-b071-7129a1b0ec2e",
+    "name": "Sri Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Sri Nagar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "c03d1ae7-2095-43d4-b988-6a27559a92fe",
+    "name": "Hbr Layout",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Hbr Layout",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "90ebb44a-c1f2-48cf-994d-bd5abdbcdfc3",
+    "name": "Ward No. 6",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 2.Ward No. 6",
+    "parent": {
+      "uuid": "c4e53ceb-428e-445f-bcf2-0604fe221c10"
+    }
+  },
+  {
+    "uuid": "51036ea6-6145-4fc2-8af9-f9d670ef43a0",
+    "name": "Agaram",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Agaram",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "4d3c7839-347d-4317-8ffd-ad787cffb77a",
+    "name": "Ward No.19",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.19",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "3d09629f-a66c-4bda-a0d3-31666a590dec",
+    "name": "J P Park",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari.J P Park",
+    "parent": {
+      "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b"
+    }
+  },
+  {
+    "uuid": "856757fd-72b0-44f4-88e3-285ec5418402",
+    "name": "Sudham Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Sudham Nagar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "37d996ee-02d4-4b8d-a56d-8d30f605c9f8",
+    "name": "Ward No.42",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.42",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "d2d4f4ba-1b5e-4d42-8544-dea307acd5f0",
+    "name": "Ward No.8",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.8",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "68232163-1e5f-4dd9-ad55-058524f41aa0",
+    "name": "Hagadur",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Hagadur",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "efd305aa-ebcd-4393-9c5d-fec380abfe07",
+    "name": "Vannar Pet",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Vannar Pet",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "1e97d135-7114-4759-a8f7-5a3308f5fe52",
+    "name": "Kumara Swamy Layout",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Kumara Swamy Layout",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "293e84b4-4894-4cfd-9de2-99abc0c46353",
+    "name": "Dr.Raj Kumar Ward",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Dr.Raj Kumar Ward",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "f6075a5a-337b-4624-af5b-605ffe55cf37",
+    "name": "Shakthi Ganapathi Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Shakthi Ganapathi Nagar",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "b53b7593-8ed4-4b72-90b3-763addf2250c",
+    "name": "Mangammana Palya",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Mangammana Palya",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "ee1b4ba1-3ea2-4e20-9d86-75ddfa510091",
+    "name": "Singa Sandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Singa Sandra",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "0707fe9d-0403-4aca-8106-d207752e64ae",
+    "name": "Ward No.13",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.13",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "b7982faa-e979-41f4-9bda-0dab9da841bd",
+    "name": "Konena Agrahara",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Konena Agrahara",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "ab775225-4c2f-4813-963e-cab4fdd1aec8",
+    "name": "Jogupalya",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Jogupalya",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "4d70fa12-fcb8-427d-9c90-6c7f17488bd2",
+    "name": "Ward No. 29",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 6.Ward No. 29",
+    "parent": {
+      "uuid": "978cf3c0-ce9b-4529-8d1d-0d21160bf133"
+    }
+  },
+  {
+    "uuid": "212eaf5a-f845-4541-8239-4759c478de94",
+    "name": "Adugodi",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Adugodi",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "528cfd65-8ac9-46de-96d8-70de96b49c34",
+    "name": "Ward No. 11",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 2.Ward No. 11",
+    "parent": {
+      "uuid": "c4e53ceb-428e-445f-bcf2-0604fe221c10"
+    }
+  },
+  {
+    "uuid": "12e95aef-5e52-491d-b0d0-1ca72d204eec",
+    "name": "Ward No. 64",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 10.Ward No. 64",
+    "parent": {
+      "uuid": "83d3e17c-05b6-46ff-ac9a-a9970306dd18"
+    }
+  },
+  {
+    "uuid": "772efa09-709d-4f06-865b-c9dfbc697bae",
+    "name": "Ward No. 23",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 4.Ward No. 23",
+    "parent": {
+      "uuid": "0b8dc58f-61d8-4c0a-ae79-c1210ab76c92"
+    }
+  },
+  {
+    "uuid": "d870266c-b405-4fcd-b6d0-af05cb54db0d",
+    "name": "Ward No. 41",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 10.Ward No. 41",
+    "parent": {
+      "uuid": "83d3e17c-05b6-46ff-ac9a-a9970306dd18"
+    }
+  },
+  {
+    "uuid": "7068e69d-40ed-49ca-a7de-02f5f23037cd",
+    "name": "Thanisandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Yelahanka.Thanisandra",
+    "parent": {
+      "uuid": "7768ce2c-f32f-4257-8a8c-26eeeaf5b35c"
+    }
+  },
+  {
+    "uuid": "fdcbd764-38c4-43e4-8cc8-6a875dfed6c2",
+    "name": "Rayapuram",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Rayapuram",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "003baa6c-5464-4430-b88c-984f1d142b0b",
+    "name": "Kottegepalya",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari.Kottegepalya",
+    "parent": {
+      "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b"
+    }
+  },
+  {
+    "uuid": "f9977fb0-4b2d-443d-8c28-20b0ebbb35bf",
+    "name": "Ward No. 49",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 6.Ward No. 49",
+    "parent": {
+      "uuid": "978cf3c0-ce9b-4529-8d1d-0d21160bf133"
+    }
+  },
+  {
+    "uuid": "4b517810-82d3-4c9e-9ab8-1f7995ecef4e",
+    "name": "Chamraja Pet",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Chamraja Pet",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "a8a5ed30-d83e-481b-a245-422ec5260cae",
+    "name": "Raj Mahal Guttahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Raj Mahal Guttahalli",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "56a700e3-bfe4-437e-a79f-82dfa9edd470",
+    "name": "Ward No.18",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.18",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "872b5b1e-116b-4faf-be29-ea90733fd0fe",
+    "name": "Hoysala Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Hoysala Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "8103288b-0e39-41f1-8f55-bfabe6d4ed2d",
+    "name": "Ward No.15",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.15",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "8c41bc8e-2969-4bb0-a5c8-a03a13d4c7c5",
+    "name": "Ward No. 14",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 1.Ward No. 14",
+    "parent": {
+      "uuid": "177a1501-897f-47cf-ba47-03f94460f5ea"
+    }
+  },
+  {
+    "uuid": "65214601-9b9f-4d7d-951b-de5e6101e0e0",
+    "name": "Jnana Bharathi Ward",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari.Jnana Bharathi Ward",
+    "parent": {
+      "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b"
+    }
+  },
+  {
+    "uuid": "cbe4bd01-7db6-4258-ad1d-2cd973253f38",
+    "name": "Btm Layout",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Btm Layout",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "6681b8f7-7c6d-41d3-8aac-83744cf0c1fd",
+    "name": "Kacharkanahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Kacharkanahalli",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "1c651a48-0bb8-4bdc-87ac-881b3e8659be",
+    "name": "Yelahanka Satellite Town",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Yelahanka.Yelahanka Satellite Town",
+    "parent": {
+      "uuid": "7768ce2c-f32f-4257-8a8c-26eeeaf5b35c"
+    }
+  },
+  {
+    "uuid": "7095c339-b7af-438a-afd9-24f2cce600ee",
+    "name": "Ejipura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Ejipura",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "749e787b-41c1-4d36-93a7-3fe173949540",
+    "name": "Ward No. 65",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 10.Ward No. 65",
+    "parent": {
+      "uuid": "83d3e17c-05b6-46ff-ac9a-a9970306dd18"
+    }
+  },
+  {
+    "uuid": "c07b54b8-fcdb-4d42-89b2-e5cc5e0c1fc0",
+    "name": "Shakambari Narar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Shakambari Narar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "4a5b17cd-b005-4a86-85e6-0d2a6fbf357e",
+    "name": "Lingarajapura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Lingarajapura",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "860c944c-3e0d-466b-b988-d2a9f1a9221c",
+    "name": "Ward No.12",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.12",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "300e784b-3c43-4bc5-9482-e435d7a52e77",
+    "name": "Basavanapura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Basavanapura",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "3d11e160-9c5f-40b5-b5b9-fef4bb9c737f",
+    "name": "Ward No.58",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.58",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "6109f048-b5d6-4abf-a64c-a243c6c710b1",
+    "name": "Ward No.56",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.56",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "1c699d0d-f081-44fe-ab76-811e4d8f521f",
+    "name": "Subramanya Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Subramanya Nagar",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "5d7b9a31-92e7-4bed-94cc-7df452c4184d",
+    "name": "Ganesh Mandir Ward",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Ganesh Mandir Ward",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "70a8c704-393c-4b71-9505-35630e0b73e4",
+    "name": "Devara Jeevanahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Devara Jeevanahalli",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "a5fc48f9-b771-4436-9ff4-c6a6b86a7c3f",
+    "name": "Rajagopal Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Dasarahalli.Rajagopal Nagar",
+    "parent": {
+      "uuid": "a935b19a-aa69-4737-95bb-5149010d6a2d"
+    }
+  },
+  {
+    "uuid": "39340d12-02f4-4039-a2ac-f9855add5aea",
+    "name": "Lakshmi Devi Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari.Lakshmi Devi Nagar",
+    "parent": {
+      "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b"
+    }
+  },
+  {
+    "uuid": "3db92754-3443-46d0-8308-59848757acd1",
+    "name": "Kari Sandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Kari Sandra",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "6fd5355b-8394-4e81-a992-6e8a9bb22ecf",
+    "name": "Ward No.15",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.15",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "12b642a5-94ff-4d5c-b4e0-c45c693d510b",
+    "name": "Ward No. 19",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 12.Ward No. 19",
+    "parent": {
+      "uuid": "26748d36-ab8f-4dfd-9180-fb4056911665"
+    }
+  },
+  {
+    "uuid": "1f18163c-5430-4eca-90b6-a237c60e2ac3",
+    "name": "Chickpete",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Chickpete",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "f922a830-4218-4719-a609-29097d60826d",
+    "name": "Dayananda Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Dayananda Nagar",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "e34add7a-5cc7-4d80-991e-df31d4859133",
+    "name": "Ward No.31",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.31",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "ce822c28-9f09-4f16-9fd9-9156a8df554e",
+    "name": "Ward No.8",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.8",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "2abee1f7-eded-4fb9-a7f3-0313fa00092f",
+    "name": "Dharmaraya Swamy Temple",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Dharmaraya Swamy Temple",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "5990dca5-86bb-4866-8fdd-f18d2a6e34d8",
+    "name": "Ward No.3",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.3",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "b840b5d8-faa2-422e-904f-30afecb4aed2",
+    "name": "Padarayanapura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Padarayanapura",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "b7a33db9-ee87-4f60-b208-2a354112fcff",
+    "name": "Ward No. 37",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 7.Ward No. 37",
+    "parent": {
+      "uuid": "78d2e827-70c3-42ce-b885-c7771361fd08"
+    }
+  },
+  {
+    "uuid": "95fe97a4-7d49-4019-b13c-1ffd85c9371c",
+    "name": "Ward No. 13",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 1.Ward No. 13",
+    "parent": {
+      "uuid": "177a1501-897f-47cf-ba47-03f94460f5ea"
+    }
+  },
+  {
+    "uuid": "8cd30538-f02f-49bc-9f64-84f3e8ccaa5e",
+    "name": "Ward No.10",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.10",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "7806b3d0-b1d8-428b-95e8-18d76f100247",
+    "name": "Lakkasandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Lakkasandra",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "e5f26a71-145d-4b62-a10c-2ba70bf72f07",
+    "name": "Ward No.6",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.6",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "b2638c40-2ea1-428a-8d03-07b36b63c91e",
+    "name": "Shiva Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Shiva Nagar",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "a4ed36f7-cf60-48bf-a341-18c43a256c4c",
+    "name": "Ward No.46",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.46",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "aaedffb6-10c9-49ac-b9ff-76c6a0266b64",
+    "name": "Ward No. 36",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 7.Ward No. 36",
+    "parent": {
+      "uuid": "78d2e827-70c3-42ce-b885-c7771361fd08"
+    }
+  },
+  {
+    "uuid": "9e65d0c2-c744-4eea-a4b8-a12133e7e02d",
+    "name": "Ward No.16",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.16",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "9228dfd2-426c-4af9-82df-4e8d65b50321",
+    "name": "Ward No.8",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.8",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "7408f2b4-db47-45b8-819e-04cca488d8d1",
+    "name": "Dodda Bommasandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Yelahanka.Dodda Bommasandra",
+    "parent": {
+      "uuid": "7768ce2c-f32f-4257-8a8c-26eeeaf5b35c"
+    }
+  },
+  {
+    "uuid": "2ce98344-668a-4e1a-a3aa-9e0e4ba38f2c",
+    "name": "Ward No.18",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.18",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "06703c68-b736-44f8-a414-b68ed3fdf14b",
+    "name": "Ward No.12",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.12",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "160aa287-2716-4160-b290-42bf8e08a215",
+    "name": "Ward No. 24",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 4.Ward No. 24",
+    "parent": {
+      "uuid": "0b8dc58f-61d8-4c0a-ae79-c1210ab76c92"
+    }
+  },
+  {
+    "uuid": "66c4a315-bf0a-4389-a058-1dffe3f006cf",
+    "name": "Ward No.35",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.35",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "dbda8a08-9889-448d-9c7c-7cb7be652ed4",
+    "name": "Malleshwaram",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Malleshwaram",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "4bfa81b8-19b4-480c-bbbd-cabb35db4bb3",
+    "name": "Hemmigepura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari.Hemmigepura",
+    "parent": {
+      "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b"
+    }
+  },
+  {
+    "uuid": "905a3518-24fb-4de8-bdce-d88fa7071e67",
+    "name": "Ward No.5",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.5",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "110f2e54-b848-4027-b299-527657f6969c",
+    "name": "Ward No. 26",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 5.Ward No. 26",
+    "parent": {
+      "uuid": "b1b32dcf-30d9-4abb-b7f2-65c5a17d6dfa"
+    }
+  },
+  {
+    "uuid": "5cd79186-eae4-400f-a45d-1f35bd059641",
+    "name": "Arakere",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Arakere",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "0645ce2e-a74b-4b99-be5b-4ebd6b533b08",
+    "name": "Ward No. 60",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 10.Ward No. 60",
+    "parent": {
+      "uuid": "83d3e17c-05b6-46ff-ac9a-a9970306dd18"
+    }
+  },
+  {
+    "uuid": "6840ba41-bc07-4267-9038-7e7175e23037",
+    "name": "Sunkenahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Sunkenahalli",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "b2f9c7bb-96ef-4c9d-aceb-23377d6e0001",
+    "name": "Ward No. 59",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 11.Ward No. 59",
+    "parent": {
+      "uuid": "a61f07a5-7785-41b5-baec-5ed4f85ca5da"
+    }
+  },
+  {
+    "uuid": "e17232b2-0cfe-4a54-b9b5-439244f7e3a8",
+    "name": "Yelchenahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Yelchenahalli",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "46e850a2-a01b-4440-a2cc-ed20b3023466",
+    "name": "Ward No.17",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.17",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "d2b2ddb2-1f9c-4d43-bc7c-b5fb0467c1df",
+    "name": "Ward No. 62",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 10.Ward No. 62",
+    "parent": {
+      "uuid": "83d3e17c-05b6-46ff-ac9a-a9970306dd18"
+    }
+  },
+  {
+    "uuid": "f5c522f2-97d0-4ec1-8fe0-d38e6821ac99",
+    "name": "Ward No.36",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.36",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "d9f27c42-6a31-4a5f-8e28-4fab96260292",
+    "name": "Manorayana Palya",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Manorayana Palya",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "bb0ba07b-0856-411b-9261-6ee08e930219",
+    "name": "Mudalapalya",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Mudalapalya",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "02042a51-7ab4-4ffd-aed6-089bc9bff753",
+    "name": "Chikkala Sandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Chikkala Sandra",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "9c34b82c-7144-4900-96ed-55658a927d24",
+    "name": "Hudi",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Hudi",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "05aa6ed5-3397-496c-af2a-6255fe7e3eeb",
+    "name": "Jakka Sandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Jakka Sandra",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "a0616b7b-e1fc-4a89-a96a-7f7c8d7d2ca1",
+    "name": "Shantala Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Shantala Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "5d1099f7-9f39-4c47-b5f0-f59580b4e290",
+    "name": "Ward No. 43",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 10.Ward No. 43",
+    "parent": {
+      "uuid": "83d3e17c-05b6-46ff-ac9a-a9970306dd18"
+    }
+  },
+  {
+    "uuid": "4b2ad0cf-6330-4bb7-a15c-550b171ddeb6",
+    "name": "Maruthi Mandir Ward",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Maruthi Mandir Ward",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "66ac2271-c479-49a0-a5f7-a190d722e1a9",
+    "name": "Ward No. 1",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 1.Ward No. 1",
+    "parent": {
+      "uuid": "177a1501-897f-47cf-ba47-03f94460f5ea"
+    }
+  },
+  {
+    "uuid": "9a3932a4-af38-4484-a761-3bdd65c747f8",
+    "name": "Koramangala",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Koramangala",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "548436b4-25a3-457e-95a9-0952dfbc47e1",
+    "name": "Jaya Nagar East",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Jaya Nagar East",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "6e9ec278-bd8b-4553-8e18-35d959948026",
+    "name": "Ward No.16",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.16",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "98a16c6f-4916-4224-96a4-584271c3f682",
+    "name": "Ward No. 66",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 11.Ward No. 66",
+    "parent": {
+      "uuid": "a61f07a5-7785-41b5-baec-5ed4f85ca5da"
+    }
+  },
+  {
+    "uuid": "c7f6ef05-c183-4d67-878a-6fc230881fdd",
+    "name": "Ward No.51",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.51",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "591c1f0e-e18b-4b3f-b0b4-1532331e457f",
+    "name": "Gangenahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Gangenahalli",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "626cc387-a38c-4551-8298-3eb0c3f68679",
+    "name": "Ward No.1",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.1",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "093cffa8-0f94-493d-b065-0eac68c1dc96",
+    "name": "Ward No. 40",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 7.Ward No. 40",
+    "parent": {
+      "uuid": "78d2e827-70c3-42ce-b885-c7771361fd08"
+    }
+  },
+  {
+    "uuid": "782bd5f2-5bb1-483a-a0cd-eb31d39e1088",
+    "name": "Ward No.25",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.25",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "39814cde-5f3e-4705-8bda-700983d862f4",
+    "name": "Ramamurthy Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Ramamurthy Nagar",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "d00ae4d6-193d-4bd5-bcde-16d694a9e99b",
+    "name": "Ward No.62",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.62",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "40355caa-7e03-412e-b07f-351499cef776",
+    "name": "Ward No. 16",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 12.Ward No. 16",
+    "parent": {
+      "uuid": "26748d36-ab8f-4dfd-9180-fb4056911665"
+    }
+  },
+  {
+    "uuid": "3e9d2e2f-94cc-422a-9e50-3eed60dbfbac",
+    "name": "Banasavadi",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Banasavadi",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "ce1a3958-43c2-4f61-93a4-8940fdeca6d7",
+    "name": "Uttarahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Uttarahalli",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "39f7605e-4f34-4996-ac2c-361dbe7070fa",
+    "name": "Benniganahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Benniganahalli",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "15535f57-b9a0-433a-b8c0-fc419cfa92cd",
+    "name": "Ward No.21",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.21",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "61aab8e4-9742-4709-b47c-bd245fe076db",
+    "name": "Ward No. 48",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 6.Ward No. 48",
+    "parent": {
+      "uuid": "978cf3c0-ce9b-4529-8d1d-0d21160bf133"
+    }
+  },
+  {
+    "uuid": "9e946a2d-21cf-4ea3-8447-edd7a2811b61",
+    "name": "Attiguppe",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Attiguppe",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "0f3e2e64-4fa8-4df7-8573-564a9607ece6",
+    "name": "Ward No. 55",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 11.Ward No. 55",
+    "parent": {
+      "uuid": "a61f07a5-7785-41b5-baec-5ed4f85ca5da"
+    }
+  },
+  {
+    "uuid": "e6af4f47-2ecf-485b-8d88-7d9eece73dc0",
+    "name": "Ward No. 58",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 11.Ward No. 58",
+    "parent": {
+      "uuid": "a61f07a5-7785-41b5-baec-5ed4f85ca5da"
+    }
+  },
+  {
+    "uuid": "b06fcf86-d82a-4534-874b-1e44fdba21f0",
+    "name": "Azad Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Azad Nagar",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "88f7971f-eb2c-40ff-a9c4-82e33747510e",
+    "name": "Ward No.4",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.4",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "d1415649-22c0-49c9-882e-f82ba226e03e",
+    "name": "Marenahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Marenahalli",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "2684c35a-912a-48da-b0d0-aafc33ce3978",
+    "name": "Kuvempu Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Yelahanka.Kuvempu Nagar",
+    "parent": {
+      "uuid": "7768ce2c-f32f-4257-8a8c-26eeeaf5b35c"
+    }
+  },
+  {
+    "uuid": "00b29a82-0548-4bff-ac69-ea690db9d143",
+    "name": "Muneshwara Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Muneshwara Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "150c7aff-2075-46b1-b72f-f75e07e54a6e",
+    "name": "Yediyur",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Yediyur",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "e7276345-3295-4797-96d2-dea3a677895f",
+    "name": "Ward No. 63",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 10.Ward No. 63",
+    "parent": {
+      "uuid": "83d3e17c-05b6-46ff-ac9a-a9970306dd18"
+    }
+  },
+  {
+    "uuid": "197d3b18-5b31-4b8b-bf3d-6a756559b47e",
+    "name": "Jaraganahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Jaraganahalli",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "91930317-f681-41dd-adc0-2a748508b43e",
+    "name": "Ward No.2",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.2",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "42638523-26b8-4971-8587-de09559785a0",
+    "name": "Ward No. 25",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 5.Ward No. 25",
+    "parent": {
+      "uuid": "b1b32dcf-30d9-4abb-b7f2-65c5a17d6dfa"
+    }
+  },
+  {
+    "uuid": "f3852af4-751b-4e39-befa-e0c5253cf395",
+    "name": "Maruthi Seva Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Maruthi Seva Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "0e77f482-d536-4b5f-9eaf-afc132e6f9aa",
+    "name": "Byra Sandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Byra Sandra",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "a3a19d10-2668-42f3-9e2c-1f9baa0d8f1e",
+    "name": "Kushal Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Kushal Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "7eaea600-7cc6-4349-81c9-1f0a64e785c5",
+    "name": "Ward No.2",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.2",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "ca706d92-5d04-440f-a29a-8d2fe5fc6ea8",
+    "name": "Ward No.30",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.30",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "8e571201-61fb-48ba-b167-2701ed3e1e42",
+    "name": "Suddagunte Palya",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Suddagunte Palya",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "df866c0f-9585-4030-9fc4-3cef7ba973f8",
+    "name": "Peenya Industrial Area",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Dasarahalli.Peenya Industrial Area",
+    "parent": {
+      "uuid": "a935b19a-aa69-4737-95bb-5149010d6a2d"
+    }
+  },
+  {
+    "uuid": "26a3191f-e52d-4881-9107-a1e6255ac53f",
+    "name": "Ward No.60",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.60",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "a5c3edf5-7aa8-446c-a66e-faa289b8dbf0",
+    "name": "Jaya Mahal",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Jaya Mahal",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "fb175ac4-611e-4b90-86dc-1624ec0d1020",
+    "name": "Chokkasandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Dasarahalli.Chokkasandra",
+    "parent": {
+      "uuid": "a935b19a-aa69-4737-95bb-5149010d6a2d"
+    }
+  },
+  {
+    "uuid": "a7a6722f-38e3-4372-b98b-880f07257b1a",
+    "name": "Kempegowda Ward",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Yelahanka.Kempegowda Ward",
+    "parent": {
+      "uuid": "7768ce2c-f32f-4257-8a8c-26eeeaf5b35c"
+    }
+  },
+  {
+    "uuid": "af847337-a40f-45e1-a57d-0750264cd3a7",
+    "name": "Ward No.63",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.63",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "4c364710-91a4-44c0-8b8c-af061adf5ff6",
+    "name": "Aramane Nagara",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Aramane Nagara",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "a6d712da-8c4f-489f-80bc-df1d4d5f8149",
+    "name": "Ward No.1",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.1",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "18714314-41f6-47d8-b2f6-7a7147504f75",
+    "name": "Gali Anjenaya Temple Ward",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Gali Anjenaya Temple Ward",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "988f67f1-ff4b-4119-8682-dbc22c705c02",
+    "name": "Ward No.5",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.5",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "e083d8ab-8813-4202-bfe3-a4433e30f1c6",
+    "name": "Kempapura Agrahara",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Kempapura Agrahara",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "a9a13cb8-3e1e-4184-bb1c-b41bfb5c07ba",
+    "name": "Hegganahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Dasarahalli.Hegganahalli",
+    "parent": {
+      "uuid": "a935b19a-aa69-4737-95bb-5149010d6a2d"
+    }
+  },
+  {
+    "uuid": "b5ef14f9-a11e-413d-8998-85cfc6f213b1",
+    "name": "Ward No. 33",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 6.Ward No. 33",
+    "parent": {
+      "uuid": "978cf3c0-ce9b-4529-8d1d-0d21160bf133"
+    }
+  },
+  {
+    "uuid": "c2cdf55a-419b-431f-ac80-af7f51873bd2",
+    "name": "Kammanahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Kammanahalli",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "f5d6f57f-6494-44e5-98c1-1f21ca375162",
+    "name": "Jaya Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Jaya Nagar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "a560c3c9-4a2c-4a5b-9296-34a739a083f6",
+    "name": "Deepanjali Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Deepanjali Nagar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "c0c41668-b2f5-47c6-a83f-3600f4900500",
+    "name": "Ward No.40",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.40",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "37815fee-b24b-44f2-9a04-d8ae56216b79",
+    "name": "Ward No.7",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.7",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "73d1bb20-c5fa-49cb-a7e8-6100308195da",
+    "name": "Ward No. 50",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 8.Ward No. 50",
+    "parent": {
+      "uuid": "2de335f2-f816-46ed-b931-e88c92af6239"
+    }
+  },
+  {
+    "uuid": "97e8de2f-e0e9-4120-89e6-8ead917d06fb",
+    "name": "Ward No.13",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.13",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "82d79091-7894-4f14-8a88-4e6002ebea59",
+    "name": "Sarakki",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Sarakki",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "94bf4c62-7eb2-4254-8650-a23933188dc7",
+    "name": "Ward No.54",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.54",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "4c054664-df9a-4c68-86dd-dc1ae83ab0c2",
+    "name": "Ward No. 18",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 12.Ward No. 18",
+    "parent": {
+      "uuid": "26748d36-ab8f-4dfd-9180-fb4056911665"
+    }
+  },
+  {
+    "uuid": "c5817405-3eb8-451c-b582-ec539b52bde7",
+    "name": "Ward No. 28",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 5.Ward No. 28",
+    "parent": {
+      "uuid": "b1b32dcf-30d9-4abb-b7f2-65c5a17d6dfa"
+    }
+  },
+  {
+    "uuid": "352f5d06-6d60-473a-9ca3-4f3bf45ced71",
+    "name": "Ward No. 56",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 8.Ward No. 56",
+    "parent": {
+      "uuid": "2de335f2-f816-46ed-b931-e88c92af6239"
+    }
+  },
+  {
+    "uuid": "03da2e40-8b80-40c4-ac6b-c0584de77427",
+    "name": "Domlur",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Domlur",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "919f306e-7f8a-4ea1-bac0-aa243ef0e725",
+    "name": "Ward No. 2",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 1.Ward No. 2",
+    "parent": {
+      "uuid": "177a1501-897f-47cf-ba47-03f94460f5ea"
+    }
+  },
+  {
+    "uuid": "4147d03f-d36e-4e43-a28b-3a6dcbb4d529",
+    "name": "Ward No.7",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.7",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "97f4fed7-1ac8-4e65-91f2-d73da1ee7032",
+    "name": "Devasandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Devasandra",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "5d41e817-dce4-4d37-a617-6a22e782f257",
+    "name": "Ward No. 32",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 6.Ward No. 32",
+    "parent": {
+      "uuid": "978cf3c0-ce9b-4529-8d1d-0d21160bf133"
+    }
+  },
+  {
+    "uuid": "51c4282f-81a8-44d8-9d78-cbf99c444a3f",
+    "name": "Ward No.14",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.14",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "ceca13ff-d76f-4290-ad9b-ce42e3fd03a8",
+    "name": "Ward No. 10",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 2.Ward No. 10",
+    "parent": {
+      "uuid": "c4e53ceb-428e-445f-bcf2-0604fe221c10"
+    }
+  },
+  {
+    "uuid": "87ab3ff5-05d9-452c-a276-4d0d77869b57",
+    "name": "Sagayara Puram",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Sagayara Puram",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "9d0eae6e-da47-4275-93e8-b79d46297f89",
+    "name": "Vasanthpura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Vasanthpura",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "c9c13581-11ad-4a78-a031-d019d8103883",
+    "name": "Ward No.50",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.50",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "36454479-d1fb-4372-bce8-1423ab627244",
+    "name": "Subhash Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Subhash Nagar",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "63d9ca47-64d7-420d-8e2c-2bc6c93e3c10",
+    "name": "Ward No.57",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.57",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "93854310-c6cb-412b-878a-3f73c2c8de0e",
+    "name": "Bellanduru",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Bellanduru",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "de71e3b7-2d10-4326-a666-3c50e5f740df",
+    "name": "Gayithri Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Gayithri Nagar",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "304fa8c9-44bd-42f3-bac2-cb71e5d1a131",
+    "name": "Honga Sandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Honga Sandra",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "3da97134-bf48-4fb2-8b13-98e9369c2f06",
+    "name": "Ward No.29",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.29",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "ddcb996f-7aee-4f22-ab19-b278a3df7506",
+    "name": "Raja Rajeshawari Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari.Raja Rajeshawari Nagar",
+    "parent": {
+      "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b"
+    }
+  },
+  {
+    "uuid": "63555ca5-2ad9-4151-b4d0-523fc88c352c",
+    "name": "Anjanapura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Anjanapura",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "20302742-dc0d-4f33-89ef-221ed0acea61",
+    "name": "Ullalu",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari.Ullalu",
+    "parent": {
+      "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b"
+    }
+  },
+  {
+    "uuid": "8a38d371-956f-44f4-a75b-3a74463c1bb8",
+    "name": "Ward No. 47",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 8.Ward No. 47",
+    "parent": {
+      "uuid": "2de335f2-f816-46ed-b931-e88c92af6239"
+    }
+  },
+  {
+    "uuid": "38637054-cae4-4ae9-a3dd-484e95dc2d65",
+    "name": "Ward No.9",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.9",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "dcfce368-b05c-4ad9-9128-d97b001e9ff1",
+    "name": "Giri Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Giri Nagar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "6b895ce9-1802-4db4-9772-0ea9d0b3212c",
+    "name": "Ward No. 8",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 2.Ward No. 8",
+    "parent": {
+      "uuid": "c4e53ceb-428e-445f-bcf2-0604fe221c10"
+    }
+  },
+  {
+    "uuid": "d000f01e-6e22-49dc-995f-2cccdac7ab64",
+    "name": "Jalahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari.Jalahalli",
+    "parent": {
+      "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b"
+    }
+  },
+  {
+    "uuid": "94dfee02-e95c-43cd-bd75-75e9c559f83e",
+    "name": "Ward No. 4",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 3.Ward No. 4",
+    "parent": {
+      "uuid": "af53b27b-7e56-422c-9c8d-96550add2929"
+    }
+  },
+  {
+    "uuid": "d578b85d-dd22-47c6-8e84-fc9b1ead7633",
+    "name": "Hanumanth Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Hanumanth Nagar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "443ea8a8-d9bd-4a40-b596-bd2b4df0ab89",
+    "name": "Sampangiram Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Sampangiram Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "4d07fb76-bdd6-4db4-8476-748ad1f739ac",
+    "name": "Ward No.20",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.20",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "d04e93b1-f9d6-455f-9ebd-346ba37fd3d4",
+    "name": "Jeevanbhima Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Jeevanbhima Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "08fe9c84-4910-4fca-8951-e434135c4c49",
+    "name": "Horamavu",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Horamavu",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "677dcff1-b32c-4da0-a654-04a79b12c203",
+    "name": "Ward No.11",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.11",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "83a0df99-0ef9-4061-96e6-80f18af52896",
+    "name": "Ward No.49",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.49",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "78942a77-5b7f-4ec9-ba6f-82d449d5185e",
+    "name": "Ward No. 38",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 7.Ward No. 38",
+    "parent": {
+      "uuid": "78d2e827-70c3-42ce-b885-c7771361fd08"
+    }
+  },
+  {
+    "uuid": "0ac8a3e3-932f-4b80-b0f9-9d4595a12432",
+    "name": "Ward No. 46",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 5.Ward No. 46",
+    "parent": {
+      "uuid": "b1b32dcf-30d9-4abb-b7f2-65c5a17d6dfa"
+    }
+  },
+  {
+    "uuid": "f706041b-ff5e-49e7-a5af-59284ad909d3",
+    "name": "Ward No.45",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.45",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "ac757c99-16cd-46af-ba23-bf362642acbf",
+    "name": "Herohalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari.Herohalli",
+    "parent": {
+      "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b"
+    }
+  },
+  {
+    "uuid": "3de37f19-1510-47fd-8e2d-d17b3ca17e15",
+    "name": "Laggere",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari.Laggere",
+    "parent": {
+      "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b"
+    }
+  },
+  {
+    "uuid": "ab683066-07a3-4dd1-922e-3e6b599b750b",
+    "name": "Ward No. 54",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 9.Ward No. 54",
+    "parent": {
+      "uuid": "cfebc257-6df9-4994-bf5b-22b9a4b733bc"
+    }
+  },
+  {
+    "uuid": "31d93629-a27d-42e2-95a0-4a3bbd8d206d",
+    "name": "Ward No. 12",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 3.Ward No. 12",
+    "parent": {
+      "uuid": "af53b27b-7e56-422c-9c8d-96550add2929"
+    }
+  },
+  {
+    "uuid": "96c07490-9b7e-4207-aac4-14426e48c1bc",
+    "name": "Ward No. 17",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 1.Ward No. 17",
+    "parent": {
+      "uuid": "177a1501-897f-47cf-ba47-03f94460f5ea"
+    }
+  },
+  {
+    "uuid": "0044b11e-828b-4b6e-a76a-287fdaf91fb9",
+    "name": "Ward No. 15",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 3.Ward No. 15",
+    "parent": {
+      "uuid": "af53b27b-7e56-422c-9c8d-96550add2929"
+    }
+  },
+  {
+    "uuid": "755011be-ddbe-4583-b242-52b0802040dd",
+    "name": "Hebbala",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Hebbala",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "1d819aab-cf4f-4cd7-b77c-cebb4db990c5",
+    "name": "Basaveshwara Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Basaveshwara Nagar",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "601e1000-8f34-475e-a941-4c564fe75e02",
+    "name": "Ward No.3",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.3",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "5fea8177-971f-44c6-8efe-55054cf2dbaf",
+    "name": "Pattabhi Ram Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Pattabhi Ram Nagar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "f2d0df1c-5f3f-4c57-9705-134039f51eac",
+    "name": "Ward No. 44",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 9.Ward No. 44",
+    "parent": {
+      "uuid": "cfebc257-6df9-4994-bf5b-22b9a4b733bc"
+    }
+  },
+  {
+    "uuid": "2d07f8d1-15a3-460a-b760-e49fde319be9",
+    "name": "Chelavadi Palya",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Chelavadi Palya",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "b0756064-a966-4b7f-863f-26ef3f5b9400",
+    "name": "Padmanabha Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Padmanabha Nagar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "fb6afa87-c1bd-49d2-bc4c-fb010166cb14",
+    "name": "Nilasandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Nilasandra",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "b6803c8c-ce47-41dc-be8f-b2b024307230",
+    "name": "Ward No. 21",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 12.Ward No. 21",
+    "parent": {
+      "uuid": "26748d36-ab8f-4dfd-9180-fb4056911665"
+    }
+  },
+  {
+    "uuid": "2787c54a-03fb-48c4-9f5c-837c2bc3e440",
+    "name": "Ward No. 61",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 10.Ward No. 61",
+    "parent": {
+      "uuid": "83d3e17c-05b6-46ff-ac9a-a9970306dd18"
+    }
+  },
+  {
+    "uuid": "55c0d0b9-b1a9-46c0-82b5-f46273bfc689",
+    "name": "Ward No. 30",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 6.Ward No. 30",
+    "parent": {
+      "uuid": "978cf3c0-ce9b-4529-8d1d-0d21160bf133"
+    }
+  },
+  {
+    "uuid": "f55a705b-c174-47c3-b35a-eb613a5c5dcd",
+    "name": "Ward No.4",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.4",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "e54dda11-ad23-4083-bd3d-e19df76f1460",
+    "name": "Sri Rama Mandir Ward",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Sri Rama Mandir Ward",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "562024af-d683-40e5-9433-ead12868ffed",
+    "name": "Gottigere",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Gottigere",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "a8a65259-1cda-44bf-b4cf-02a751c8ab9b",
+    "name": "Ward No. 53",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 9.Ward No. 53",
+    "parent": {
+      "uuid": "cfebc257-6df9-4994-bf5b-22b9a4b733bc"
+    }
+  },
+  {
+    "uuid": "f48469dd-4783-402d-b72b-64502f71503a",
+    "name": "Dattatreya Temple Ward",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Dattatreya Temple Ward",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "c50361d2-1977-4189-9be2-fe43b9f9d4f9",
+    "name": "Vijnanapura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Vijnanapura",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "7084dd5e-4492-4e8c-aa4e-444a2d87cb71",
+    "name": "Jp Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Jp Nagar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "61726fd4-0720-4d59-9209-f36d7cd100d3",
+    "name": "Ward No.33",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.33",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "0f1720b0-e1f0-407f-a371-4641ab7d74db",
+    "name": "Pulakeshi Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Pulakeshi Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "9d81e5ef-8477-4bec-a6c4-a3465e5940b9",
+    "name": "Ward No.6",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.6",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "8b6d825c-0a43-4761-96e5-7ed61bc56ec6",
+    "name": "Ward No.11",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam.Ward No.11",
+    "parent": {
+      "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823"
+    }
+  },
+  {
+    "uuid": "00e7a527-d6b5-48de-a54c-2ae466e3d4b1",
+    "name": "Mattikere",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Mattikere",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "9d91425d-a9cf-4487-a19a-4ae5a2ca6664",
+    "name": "Bommanahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli.Bommanahalli",
+    "parent": {
+      "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e"
+    }
+  },
+  {
+    "uuid": "9eaa04b4-a94c-4493-9b68-921c58287b75",
+    "name": "Kaveripura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Kaveripura",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "3830d835-2088-4e4f-9696-f19e10e99928",
+    "name": "Jagajivanaram Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Jagajivanaram Nagar",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "7a9571f1-93f9-4beb-8a12-27f373ba7df6",
+    "name": "Ward No.23",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.23",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "078e4564-7dd7-4472-91d7-3e6e7fdffb1e",
+    "name": "Ward No. 7",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 2.Ward No. 7",
+    "parent": {
+      "uuid": "c4e53ceb-428e-445f-bcf2-0604fe221c10"
+    }
+  },
+  {
+    "uuid": "e8a1cbd3-c568-4562-bf7e-21ab4fcfb4ec",
+    "name": "Kengeri",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari.Kengeri",
+    "parent": {
+      "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b"
+    }
+  },
+  {
+    "uuid": "040528af-c9d0-4406-9b8a-a7b363123ca9",
+    "name": "Okalipuram",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Okalipuram",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "a11e0b2a-3570-4bf3-9d3a-c296fdc27811",
+    "name": "Ward No.22",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.22",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "219c901d-1f40-4e79-b01d-46cbde1b94f7",
+    "name": "Ward No. 51",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 8.Ward No. 51",
+    "parent": {
+      "uuid": "2de335f2-f816-46ed-b931-e88c92af6239"
+    }
+  },
+  {
+    "uuid": "a1119809-a7bf-4cef-b2dd-d49fc2af67b9",
+    "name": "Ganga Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Ganga Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "08b13cac-f3a5-440f-94b3-ad2550e3fc46",
+    "name": "Bapuji Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Bapuji Nagar",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "5fe81950-62fb-4153-9c0c-69c46afe9551",
+    "name": "Ward No. 45",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 9.Ward No. 45",
+    "parent": {
+      "uuid": "cfebc257-6df9-4994-bf5b-22b9a4b733bc"
+    }
+  },
+  {
+    "uuid": "419b92f5-4f8b-4cd9-9616-0838219c2821",
+    "name": "Jakkuru",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Yelahanka.Jakkuru",
+    "parent": {
+      "uuid": "7768ce2c-f32f-4257-8a8c-26eeeaf5b35c"
+    }
+  },
+  {
+    "uuid": "007251db-33d7-4c9a-8a27-92f3056e04ae",
+    "name": "Ward No.10",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.10",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "11326654-16d7-4de2-bfff-33f8a30da253",
+    "name": "Dodda Nekkundi",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Dodda Nekkundi",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "f0fa5db0-cbce-4f70-94d1-eaeec4439b48",
+    "name": "Shankar Matt",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Shankar Matt",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "ccc4dd96-d3e8-4ad2-841c-2b851feb18e9",
+    "name": "Rajaji Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Rajaji Nagar",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "1d7f32ec-aa7b-4a99-b6ca-665f89075915",
+    "name": "Ward No. 34",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 5.Ward No. 34",
+    "parent": {
+      "uuid": "b1b32dcf-30d9-4abb-b7f2-65c5a17d6dfa"
+    }
+  },
+  {
+    "uuid": "9b1b1bd7-ef33-4a20-a15e-128adfc53422",
+    "name": "Cottonpete",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Cottonpete",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "f0d811db-7332-4ff2-8013-8872c909bf99",
+    "name": "Ward No. 27",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 5.Ward No. 27",
+    "parent": {
+      "uuid": "b1b32dcf-30d9-4abb-b7f2-65c5a17d6dfa"
+    }
+  },
+  {
+    "uuid": "aa20d0ae-fb1e-49b2-9e03-b3be18a377f6",
+    "name": "Ward No.43",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.43",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "af2afb21-b54c-41ff-a617-edd5f2c3e2cc",
+    "name": "Madivala",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Madivala",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "1d4ad99b-9614-4308-b4f1-3010444c270b",
+    "name": "Ward No.34",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.34",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "1198a5d4-0852-4dc4-b3e4-53b1378e48e0",
+    "name": "Nagapura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Nagapura",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "292f8be6-08c6-41ed-91fb-f0834992049d",
+    "name": "Atturu",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Yelahanka.Atturu",
+    "parent": {
+      "uuid": "7768ce2c-f32f-4257-8a8c-26eeeaf5b35c"
+    }
+  },
+  {
+    "uuid": "9a616b3c-2b95-438b-9202-9b47438f7c0d",
+    "name": "Ward No. 42",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 10.Ward No. 42",
+    "parent": {
+      "uuid": "83d3e17c-05b6-46ff-ac9a-a9970306dd18"
+    }
+  },
+  {
+    "uuid": "c629fa98-b632-4f3b-a228-0d3de4f23ce1",
+    "name": "Ward No. 67",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 11.Ward No. 67",
+    "parent": {
+      "uuid": "a61f07a5-7785-41b5-baec-5ed4f85ca5da"
+    }
+  },
+  {
+    "uuid": "1434ae3a-e5e3-440e-9a5a-aac302a863c2",
+    "name": "Jayachamarajendra Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Jayachamarajendra Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "57e1c78a-4ce0-4fd1-b602-d39ddb9cee60",
+    "name": "Byatarayanapura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Yelahanka.Byatarayanapura",
+    "parent": {
+      "uuid": "7768ce2c-f32f-4257-8a8c-26eeeaf5b35c"
+    }
+  },
+  {
+    "uuid": "1667a223-9f24-4390-be3e-5734ab9e8486",
+    "name": "Ward No.65",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.65",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "5f71bf60-e53f-4011-b03d-e65d73814a0c",
+    "name": "Vasanth Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Vasanth Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "84e7422a-4e53-4b6c-87c9-785ee073c652",
+    "name": "Hosahalli",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.South.Hosahalli",
+    "parent": {
+      "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f"
+    }
+  },
+  {
+    "uuid": "3c772190-6363-4f1f-be44-b17f4ba1ee32",
+    "name": "Ward No.3",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.3",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "68b66d7d-27df-46fd-b348-74969b7b706d",
+    "name": "Varthur",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.Varthur",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "c3be9439-12cd-401a-9944-14694ee71641",
+    "name": "Ward No.24",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.24",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "02a5c667-1092-41f8-bdaf-06494e81387a",
+    "name": "Ward No. 20",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 12.Ward No. 20",
+    "parent": {
+      "uuid": "26748d36-ab8f-4dfd-9180-fb4056911665"
+    }
+  },
+  {
+    "uuid": "9f0afeac-37ef-4c63-bcc6-eee638f4f05a",
+    "name": "Ward No.5",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.5",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "15a7fdf5-dbb7-46f6-a9ba-1674202ac705",
+    "name": "Ward No.55",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.55",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "6851f748-e4de-4dd8-b60f-5fd3f3986b32",
+    "name": "Ward No.59",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.59",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "090ae90b-78be-461b-aa34-6d9e983b3a5e",
+    "name": "Ward No.4",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.4",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "98e2cb56-a281-4fff-8ec5-975124faeada",
+    "name": "Shivaji Nagar",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.Shivaji Nagar",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "d6875518-9e52-453a-9d9e-bd4f74018392",
+    "name": "Ward No.52",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram.Ward No.52",
+    "parent": {
+      "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252"
+    }
+  },
+  {
+    "uuid": "97b289ea-7126-402e-a6c7-4a111fe637c2",
+    "name": "Mahalakshmipuram",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Mahalakshmipuram",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "1fc2309c-be46-4131-abdf-995520f978df",
+    "name": "Ward No.26",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam.Ward No.26",
+    "parent": {
+      "uuid": "af81d384-2174-49c8-9eeb-1c951773575f"
+    }
+  },
+  {
+    "uuid": "f60fb022-8131-4d29-b0da-b0042da8b036",
+    "name": "A Narayanapura",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura.A Narayanapura",
+    "parent": {
+      "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854"
+    }
+  },
+  {
+    "uuid": "fe8f5c8b-2f18-4253-a288-31099acbdad8",
+    "name": "Ward No.13",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam.Ward No.13",
+    "parent": {
+      "uuid": "25183399-744f-4253-8faa-3609b2e57ed0"
+    }
+  },
+  {
+    "uuid": "52d746fb-5b4a-45fb-a001-5d0345a8d348",
+    "name": "Ward No.7",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.7",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  },
+  {
+    "uuid": "773b8fbd-ab7d-4a86-9bc6-70e8685332ee",
+    "name": "Marappana Palya",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.West.Marappana Palya",
+    "parent": {
+      "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93"
+    }
+  },
+  {
+    "uuid": "4181504c-88a4-4040-8206-72d609776012",
+    "name": "New Tippa Sandra",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.East.New Tippa Sandra",
+    "parent": {
+      "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f"
+    }
+  },
+  {
+    "uuid": "ca37bcfd-6cea-465b-8ed8-b2a596afffc9",
+    "name": "Ward No.48",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock.Ward No.48",
+    "parent": {
+      "uuid": "885cc88c-3818-4263-add2-76d434570e8d"
+    }
+  },
+  {
+    "uuid": "1614699e-67d0-4e7b-b2fc-342806535837",
+    "name": "Hmt Ward",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari.Hmt Ward",
+    "parent": {
+      "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b"
+    }
+  },
+  {
+    "uuid": "e3018356-bc10-4aab-8d11-88f3465e2513",
+    "name": "Ward No.9",
+    "level": 1,
+    "type": "Ward",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam.Ward No.9",
+    "parent": {
+      "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e"
+    }
+  }
+]

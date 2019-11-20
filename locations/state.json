@@ -1,0 +1,16 @@
+[
+  {
+    "uuid": "91c6b7b3-2dc3-45f4-8ae4-780ecb51a76b",
+    "name": "Tamil Nadu",
+    "level": 4,
+    "type": "State",
+    "nameLineage": "Tamil Nadu"
+  },
+  {
+    "uuid": "c3bc2509-7d96-4e3f-9f28-c5495be9f009",
+    "name": "Karnataka",
+    "level": 4,
+    "type": "State",
+    "nameLineage": "Karnataka"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "uuid": "485663c8-6e2d-4181-92c2-70401f9999b4",
+    "name": "dev@hasiru",
+    "password": "password",
+    "email": "openchssupport+hasiru@samanvayfoundation.org",
+    "phoneNumber": "+919923139403",
+    "organisationUUID": "a718baa6-13d7-4dbd-a0e5-5af3a1d36e29",
+    "catchmentUUID": "4895b1b8-6721-4a7c-98e3-8a94b88d4e17",
+    "operatingIndividualScope": "ByCatchment",
+    "admin": false,
+    "orgAdmin": false
+  },
+  {
+    "uuid": "3443106e-af2a-4af0-8fec-22c447b83569",
+    "name": "tn-dev@hasiru",
+    "password": "password",
+    "email": "openchssupport+hasiru@samanvayfoundation.org",
+    "phoneNumber": "+919923139403",
+    "organisationUUID": "a718baa6-13d7-4dbd-a0e5-5af3a1d36e29",
+    "catchmentUUID": "73eac33a-93c7-4305-8d77-567842d00319",
+    "operatingIndividualScope": "ByCatchment",
+    "admin": false,
+    "orgAdmin": false
+  },
+  {
+    "uuid": "664d4c54-a549-4daa-bdb4-569b6d86f9cb",
+    "name": "karnataka-dev@hasiru",
+    "password": "password",
+    "email": "openchssupport+hasiru@samanvayfoundation.org",
+    "phoneNumber": "+919923139403",
+    "organisationUUID": "a718baa6-13d7-4dbd-a0e5-5af3a1d36e29",
+    "catchmentUUID": "29f3dd57-2bc7-4d7e-8940-04cbfcc50a6d",
+    "operatingIndividualScope": "ByCatchment",
+    "admin": false,
+    "orgAdmin": false
+  }
+]

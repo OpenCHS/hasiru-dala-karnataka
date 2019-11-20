@@ -1,0 +1,364 @@
+S.No.,State,City,Zone,Ward Name
+1,Karnataka,Bangalore,Yelahanka,Kempegowda Ward
+2,Karnataka,Bangalore,Yelahanka,Chowdeswari Ward
+3,Karnataka,Bangalore,Yelahanka,Atturu
+4,Karnataka,Bangalore,Yelahanka,Yelahanka Satellite Town
+5,Karnataka,Bangalore,Yelahanka,Jakkuru
+6,Karnataka,Bangalore,Yelahanka,Thanisandra
+7,Karnataka,Bangalore,Yelahanka,Byatarayanapura
+8,Karnataka,Bangalore,Yelahanka,Kodigehalli
+9,Karnataka,Bangalore,Yelahanka,Vidyaranyapura
+10,Karnataka,Bangalore,Yelahanka,Dodda Bommasandra
+11,Karnataka,Bangalore,Yelahanka,Kuvempu Nagar
+12,Karnataka,Bangalore,Dasarahalli,Shettihalli
+13,Karnataka,Bangalore,Dasarahalli,Mallasandra
+14,Karnataka,Bangalore,Dasarahalli,Bagalakunte
+15,Karnataka,Bangalore,Dasarahalli,T Dasarahalli
+16,Karnataka,Bangalore,Rajarajeshwari,Jalahalli
+17,Karnataka,Bangalore,Rajarajeshwari,J P Park
+18,Karnataka,Bangalore,East,Radhakrishna Temple Ward
+19,Karnataka,Bangalore,East,Sanjaya Nagar
+20,Karnataka,Bangalore,East,Ganga Nagar
+21,Karnataka,Bangalore,East,Hebbala
+22,Karnataka,Bangalore,East,Vishwanathnagenahalli
+23,Karnataka,Bangalore,East,Nagavara
+24,Karnataka,Bangalore,East,HBR Layout
+25,Karnataka,Bangalore,Mahadevapura,Horamavu
+26,Karnataka,Bangalore,Mahadevapura,Ramamurthy Nagar
+27,Karnataka,Bangalore,East,Banasavadi
+28,Karnataka,Bangalore,East,Kammanahalli
+29,Karnataka,Bangalore,East,Kacharkanahalli
+30,Karnataka,Bangalore,East,Kadugondanahalli
+31,Karnataka,Bangalore,East,Kushal Nagar
+32,Karnataka,Bangalore,East,Kaval Bairasandra
+33,Karnataka,Bangalore,East,Manorayana Palya
+34,Karnataka,Bangalore,East,Gangenahalli
+35,Karnataka,Bangalore,West,Aramane Nagara
+36,Karnataka,Bangalore,West,Mattikere
+37,Karnataka,Bangalore,Rajarajeshwari,Yeshwanthpura
+38,Karnataka,Bangalore,Rajarajeshwari,HMT Ward
+39,Karnataka,Bangalore,Dasarahalli,Chokkasandra
+40,Karnataka,Bangalore,Rajarajeshwari,Dodda Bidarakallu
+41,Karnataka,Bangalore,Dasarahalli,Peenya Industrial Area
+42,Karnataka,Bangalore,Rajarajeshwari,Lakshmi Devi Nagar
+43,Karnataka,Bangalore,West,Nandini Layout
+44,Karnataka,Bangalore,West,Marappana Palya
+45,Karnataka,Bangalore,West,Malleshwaram
+46,Karnataka,Bangalore,East,Jayachamarajendra Nagar
+47,Karnataka,Bangalore,East,Devara Jeevanahalli
+48,Karnataka,Bangalore,East,Muneshwara Nagar
+49,Karnataka,Bangalore,East,Lingarajapura
+50,Karnataka,Bangalore,East,Benniganahalli
+51,Karnataka,Bangalore,Mahadevapura,Vijnanapura
+52,Karnataka,Bangalore,Mahadevapura,KR Puram
+53,Karnataka,Bangalore,Mahadevapura,Basavanapura
+54,Karnataka,Bangalore,Mahadevapura,Hudi
+55,Karnataka,Bangalore,Mahadevapura,Devasandra
+56,Karnataka,Bangalore,Mahadevapura,A Narayanapura
+57,Karnataka,Bangalore,East,C.V. Raman Nagar
+58,Karnataka,Bangalore,East,New Tippa Sandra
+59,Karnataka,Bangalore,East,Maruthi Seva Nagar
+60,Karnataka,Bangalore,East,Sagayara Puram
+61,Karnataka,Bangalore,East,SK Garden
+62,Karnataka,Bangalore,East,Ramaswamy Palya
+63,Karnataka,Bangalore,East,Jaya Mahal
+64,Karnataka,Bangalore,West,Raj Mahal Guttahalli
+65,Karnataka,Bangalore,West,Kadu Malleshwara Ward
+66,Karnataka,Bangalore,West,Subramanya Nagar
+67,Karnataka,Bangalore,West,Nagapura
+68,Karnataka,Bangalore,West,Mahalakshmipuram
+69,Karnataka,Bangalore,Rajarajeshwari,Laggere
+70,Karnataka,Bangalore,Dasarahalli,Rajagopal Nagar
+71,Karnataka,Bangalore,Dasarahalli,Hegganahalli
+72,Karnataka,Bangalore,Rajarajeshwari,Herohalli
+73,Karnataka,Bangalore,Rajarajeshwari,Kottegepalya
+74,Karnataka,Bangalore,West,Shakthi Ganapathi Nagar
+75,Karnataka,Bangalore,West,Shankar Matt
+76,Karnataka,Bangalore,West,Gayithri Nagar
+77,Karnataka,Bangalore,West,Dattatreya Temple Ward
+78,Karnataka,Bangalore,East,Pulakeshi Nagar
+79,Karnataka,Bangalore,East,Sarvagna Nagar
+80,Karnataka,Bangalore,East,Hoysala Nagar
+81,Karnataka,Bangalore,Mahadevapura,Vijnana Nagar
+82,Karnataka,Bangalore,Mahadevapura,Garudachar palya
+83,Karnataka,Bangalore,Mahadevapura,Kadugodi
+84,Karnataka,Bangalore,Mahadevapura,Hagadur
+85,Karnataka,Bangalore,Mahadevapura,Dodda Nekkundi
+86,Karnataka,Bangalore,Mahadevapura,Marathahalli
+87,Karnataka,Bangalore,Mahadevapura,HAL Airport
+88,Karnataka,Bangalore,East,Jeevanbhima Nagar
+89,Karnataka,Bangalore,East,Jogupalya
+90,Karnataka,Bangalore,East,Halsoor
+91,Karnataka,Bangalore,East,Bharathi Nagar
+92,Karnataka,Bangalore,East,Shivaji Nagar
+93,Karnataka,Bangalore,East,Vasanth Nagar
+94,Karnataka,Bangalore,West,Gandhi Nagar
+95,Karnataka,Bangalore,West,Subhash Nagar
+96,Karnataka,Bangalore,West,Okalipuram
+97,Karnataka,Bangalore,West,Dayananda Nagar
+98,Karnataka,Bangalore,West,Prakash Nagar
+99,Karnataka,Bangalore,West,Rajaji Nagar
+100,Karnataka,Bangalore,West,Basaveshwara Nagar
+101,Karnataka,Bangalore,West,Kamakshipalya
+102,Karnataka,Bangalore,West,Vrisahbhavathi Nagar
+103,Karnataka,Bangalore,South,Kaveripura
+104,Karnataka,Bangalore,South,Govindaraja Nagar
+105,Karnataka,Bangalore,South,Agrahara Dasarahalli
+106,Karnataka,Bangalore,South,Dr.Raj Kumar Ward
+107,Karnataka,Bangalore,West,Shiva Nagar
+108,Karnataka,Bangalore,West,Sri Rama Mandir Ward
+109,Karnataka,Bangalore,West,Chickpete
+110,Karnataka,Bangalore,East,Sampangiram Nagar
+111,Karnataka,Bangalore,East,Shantala Nagar
+112,Karnataka,Bangalore,East,Domlur
+113,Karnataka,Bangalore,East,Konena Agrahara
+114,Karnataka,Bangalore,East,Agaram
+115,Karnataka,Bangalore,East,Vannar Pet
+116,Karnataka,Bangalore,East,Nilasandra
+117,Karnataka,Bangalore,East,Shanthi Nagar
+118,Karnataka,Bangalore,South,Sudham Nagar
+119,Karnataka,Bangalore,South,Dharmaraya Swamy Temple
+120,Karnataka,Bangalore,West,Cottonpete
+121,Karnataka,Bangalore,West,Binni Pete
+122,Karnataka,Bangalore,South,Kempapura Agrahara
+123,Karnataka,Bangalore,South,Vijaya Nagar
+124,Karnataka,Bangalore,South,Hosahalli
+125,Karnataka,Bangalore,South,Marenahalli
+126,Karnataka,Bangalore,South,Maruthi Mandir Ward
+127,Karnataka,Bangalore,South,Mudalapalya
+128,Karnataka,Bangalore,South,Nagarabhavi
+129,Karnataka,Bangalore,Rajarajeshwari,Jnana Bharathi Ward
+130,Karnataka,Bangalore,Rajarajeshwari,Ullalu
+131,Karnataka,Bangalore,South,Nayandahalli
+132,Karnataka,Bangalore,South,Attiguppe
+133,Karnataka,Bangalore,South,Hampi Nagar
+134,Karnataka,Bangalore,South,Bapuji Nagar
+135,Karnataka,Bangalore,West,Padarayanapura
+136,Karnataka,Bangalore,West,Jagajivanaram Nagar
+137,Karnataka,Bangalore,West,Rayapuram
+138,Karnataka,Bangalore,West,Chelavadi Palya
+139,Karnataka,Bangalore,West,KR Market
+140,Karnataka,Bangalore,West,Chamraja Pet
+141,Karnataka,Bangalore,West,Azad Nagar
+142,Karnataka,Bangalore,South,Sunkenahalli
+143,Karnataka,Bangalore,South,Vishveshwara Puram
+144,Karnataka,Bangalore,South,Siddapura
+145,Karnataka,Bangalore,South,Hombegowda Nagar
+146,Karnataka,Bangalore,South,Lakkasandra
+147,Karnataka,Bangalore,South,Adugodi
+148,Karnataka,Bangalore,South,Ejipura
+149,Karnataka,Bangalore,Mahadevapura,Varthur
+150,Karnataka,Bangalore,Mahadevapura,Bellanduru
+151,Karnataka,Bangalore,South,Koramangala
+152,Karnataka,Bangalore,South,Suddagunte Palya
+153,Karnataka,Bangalore,South,Jaya Nagar
+154,Karnataka,Bangalore,South,Basavanagudi
+155,Karnataka,Bangalore,South,Hanumanth Nagar
+156,Karnataka,Bangalore,South,Sri Nagar
+157,Karnataka,Bangalore,South,Gali Anjenaya Temple Ward
+158,Karnataka,Bangalore,South,Deepanjali Nagar
+159,Karnataka,Bangalore,Rajarajeshwari,Kengeri
+160,Karnataka,Bangalore,Rajarajeshwari,Raja Rajeshawari Nagar
+161,Karnataka,Bangalore,South,Hosakerehalli
+162,Karnataka,Bangalore,South,Giri Nagar
+163,Karnataka,Bangalore,South,Katriguppe
+164,Karnataka,Bangalore,South,Vidya Peeta Ward
+165,Karnataka,Bangalore,South,Ganesh Mandir Ward
+166,Karnataka,Bangalore,South,Kari Sandra
+167,Karnataka,Bangalore,South,Yediyur
+168,Karnataka,Bangalore,South,Pattabhi Ram Nagar
+169,Karnataka,Bangalore,South,Byra Sandra
+170,Karnataka,Bangalore,South,Jaya Nagar East
+171,Karnataka,Bangalore,South,Gurappana Palya
+172,Karnataka,Bangalore,South,Madivala
+173,Karnataka,Bangalore,South,Jakka Sandra
+174,Karnataka,Bangalore,Bommanahalli,HSR Layout
+175,Karnataka,Bangalore,Bommanahalli,Bommanahalli
+176,Karnataka,Bangalore,South,BTM Layout
+177,Karnataka,Bangalore,South,JP Nagar
+178,Karnataka,Bangalore,South,Sarakki
+179,Karnataka,Bangalore,South,Shakambari Narar
+180,Karnataka,Bangalore,South,Banashankari Temple Ward
+181,Karnataka,Bangalore,South,Kumara Swamy Layout
+182,Karnataka,Bangalore,South,Padmanabha Nagar
+183,Karnataka,Bangalore,South,Chikkala Sandra
+184,Karnataka,Bangalore,Bommanahalli,Uttarahalli
+185,Karnataka,Bangalore,Bommanahalli,Yelchenahalli
+186,Karnataka,Bangalore,Bommanahalli,Jaraganahalli
+187,Karnataka,Bangalore,Bommanahalli,Puttenahalli
+188,Karnataka,Bangalore,Bommanahalli,Bilekhalli
+189,Karnataka,Bangalore,Bommanahalli,Honga Sandra
+190,Karnataka,Bangalore,Bommanahalli,Mangammana Palya
+191,Karnataka,Bangalore,Bommanahalli,Singa Sandra
+192,Karnataka,Bangalore,Bommanahalli,Begur
+193,Karnataka,Bangalore,Bommanahalli,Arakere
+194,Karnataka,Bangalore,Bommanahalli,Gottigere
+195,Karnataka,Bangalore,Bommanahalli,Konankunte
+196,Karnataka,Bangalore,Bommanahalli,Anjanapura
+197,Karnataka,Bangalore,Bommanahalli,Vasanthpura
+198,Karnataka,Bangalore,Rajarajeshwari,Hemmigepura
+199,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.1
+200,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.2
+201,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.3
+202,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.4
+203,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.5
+204,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.6
+205,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.8
+206,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.9
+207,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.10
+208,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.11
+209,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.12
+210,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.13
+211,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.16
+212,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.17
+213,Tamil Nadu,Tiruchirappalli,Srirangam,Ward No.18
+214,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.7
+215,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.14
+216,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.15
+217,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.19
+218,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.20
+219,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.21
+220,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.22
+221,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.23
+222,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.24
+223,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.25
+224,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.26
+225,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.27
+226,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.28
+227,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.29
+228,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.33
+229,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.61
+230,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.62
+231,Tamil Nadu,Tiruchirappalli,Ariyamangalam,Ward No.64
+232,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.30
+233,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.31
+234,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.32
+235,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.34
+236,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.35
+237,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.36
+238,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.37
+239,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.38
+240,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.39
+241,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.42
+242,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.43
+243,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.44
+244,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.46
+245,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.47
+246,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.48
+247,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.63
+248,Tamil Nadu,Tiruchirappalli,Goldenrock,Ward No.65
+249,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.40
+250,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.41
+251,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.45
+252,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.49
+253,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.50
+254,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.51
+255,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.52
+256,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.53
+257,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.54
+258,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.55
+259,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.56
+260,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.57
+261,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.58
+262,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.59
+263,Tamil Nadu,Tiruchirappalli,K.Abisekapuram,Ward No.60
+264,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.1
+265,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.2
+266,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.3
+267,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.4
+268,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.5
+269,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.6
+270,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.7
+271,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.8
+272,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.9
+273,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.10
+274,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.11
+275,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.12
+276,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.13
+277,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.14
+278,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.15
+279,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.16
+280,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.17
+281,Tamil Nadu,Periyanaickenpalayam,Periyanaickenpalayam,Ward No.18
+282,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.1
+283,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.2
+284,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.3
+285,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.4
+286,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.5
+287,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.6
+288,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.7
+289,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.8
+290,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.9
+291,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.10
+292,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.11
+293,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.12
+294,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.13
+295,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.14
+296,Tamil Nadu,Narasimmanaickenpalayam,Narasimmanaickenpalayam,Ward No.15
+297,Karnataka,Hubli-Dharwad,ZONE 1,Ward No. 1
+298,Karnataka,Hubli-Dharwad,ZONE 1,Ward No. 2
+299,Karnataka,Hubli-Dharwad,ZONE 3,Ward No. 3
+300,Karnataka,Hubli-Dharwad,ZONE 3,Ward No. 4
+301,Karnataka,Hubli-Dharwad,ZONE 2,Ward No. 5
+302,Karnataka,Hubli-Dharwad,ZONE 2,Ward No. 6
+303,Karnataka,Hubli-Dharwad,ZONE 2,Ward No. 7
+304,Karnataka,Hubli-Dharwad,ZONE 2,Ward No. 8
+305,Karnataka,Hubli-Dharwad,ZONE 2,Ward No. 9
+306,Karnataka,Hubli-Dharwad,ZONE 2,Ward No. 10
+307,Karnataka,Hubli-Dharwad,ZONE 2,Ward No. 11
+308,Karnataka,Hubli-Dharwad,ZONE 3,Ward No. 12
+309,Karnataka,Hubli-Dharwad,ZONE 1,Ward No. 13
+310,Karnataka,Hubli-Dharwad,ZONE 1,Ward No. 14
+311,Karnataka,Hubli-Dharwad,ZONE 3,Ward No. 15
+312,Karnataka,Hubli-Dharwad,ZONE 12,Ward No. 16
+313,Karnataka,Hubli-Dharwad,ZONE 1,Ward No. 17
+314,Karnataka,Hubli-Dharwad,ZONE 12,Ward No. 18
+315,Karnataka,Hubli-Dharwad,ZONE 12,Ward No. 19
+316,Karnataka,Hubli-Dharwad,ZONE 12,Ward No. 20
+317,Karnataka,Hubli-Dharwad,ZONE 12,Ward No. 21
+318,Karnataka,Hubli-Dharwad,ZONE 4,Ward No. 22
+319,Karnataka,Hubli-Dharwad,ZONE 4,Ward No. 23
+320,Karnataka,Hubli-Dharwad,ZONE 4,Ward No. 24
+321,Karnataka,Hubli-Dharwad,ZONE 5,Ward No. 25
+322,Karnataka,Hubli-Dharwad,ZONE 5,Ward No. 26
+323,Karnataka,Hubli-Dharwad,ZONE 5,Ward No. 27
+324,Karnataka,Hubli-Dharwad,ZONE 5,Ward No. 28
+325,Karnataka,Hubli-Dharwad,ZONE 6,Ward No. 29
+326,Karnataka,Hubli-Dharwad,ZONE 6,Ward No. 30
+327,Karnataka,Hubli-Dharwad,ZONE 6,Ward No. 31
+328,Karnataka,Hubli-Dharwad,ZONE 6,Ward No. 32
+329,Karnataka,Hubli-Dharwad,ZONE 6,Ward No. 33
+330,Karnataka,Hubli-Dharwad,ZONE 5,Ward No. 34
+331,Karnataka,Hubli-Dharwad,ZONE 5,Ward No. 35
+332,Karnataka,Hubli-Dharwad,ZONE 7,Ward No. 36
+333,Karnataka,Hubli-Dharwad,ZONE 7,Ward No. 37
+334,Karnataka,Hubli-Dharwad,ZONE 7,Ward No. 38
+335,Karnataka,Hubli-Dharwad,ZONE 7,Ward No. 39
+336,Karnataka,Hubli-Dharwad,ZONE 7,Ward No. 40
+337,Karnataka,Hubli-Dharwad,ZONE 10,Ward No. 41
+338,Karnataka,Hubli-Dharwad,ZONE 10,Ward No. 42
+339,Karnataka,Hubli-Dharwad,ZONE 10,Ward No. 43
+340,Karnataka,Hubli-Dharwad,ZONE 9,Ward No. 44
+341,Karnataka,Hubli-Dharwad,ZONE 9,Ward No. 45
+342,Karnataka,Hubli-Dharwad,ZONE 5,Ward No. 46
+343,Karnataka,Hubli-Dharwad,ZONE 8,Ward No. 47
+344,Karnataka,Hubli-Dharwad,ZONE 6,Ward No. 48
+345,Karnataka,Hubli-Dharwad,ZONE 6,Ward No. 49
+346,Karnataka,Hubli-Dharwad,ZONE 8,Ward No. 50
+347,Karnataka,Hubli-Dharwad,ZONE 8,Ward No. 51
+348,Karnataka,Hubli-Dharwad,ZONE 8,Ward No. 52
+349,Karnataka,Hubli-Dharwad,ZONE 9,Ward No. 53
+350,Karnataka,Hubli-Dharwad,ZONE 9,Ward No. 54
+351,Karnataka,Hubli-Dharwad,ZONE 11,Ward No. 55
+352,Karnataka,Hubli-Dharwad,ZONE 8,Ward No. 56
+353,Karnataka,Hubli-Dharwad,ZONE 11,Ward No. 57
+354,Karnataka,Hubli-Dharwad,ZONE 11,Ward No. 58
+355,Karnataka,Hubli-Dharwad,ZONE 11,Ward No. 59
+356,Karnataka,Hubli-Dharwad,ZONE 10,Ward No. 60
+357,Karnataka,Hubli-Dharwad,ZONE 10,Ward No. 61
+358,Karnataka,Hubli-Dharwad,ZONE 10,Ward No. 62
+359,Karnataka,Hubli-Dharwad,ZONE 10,Ward No. 63
+360,Karnataka,Hubli-Dharwad,ZONE 10,Ward No. 64
+361,Karnataka,Hubli-Dharwad,ZONE 10,Ward No. 65
+362,Karnataka,Hubli-Dharwad,ZONE 11,Ward No. 66
+363,Karnataka,Hubli-Dharwad,ZONE 11,Ward No. 67

@@ -1,0 +1,262 @@
+[
+  {
+    "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e",
+    "name": "Periyanaickenpalayam",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Tamil Nadu.Periyanaickenpalayam.Periyanaickenpalayam",
+    "parent": {
+      "uuid": "5e124b99-663a-4862-918b-b802b16aa976"
+    }
+  },
+  {
+    "uuid": "25183399-744f-4253-8faa-3609b2e57ed0",
+    "name": "Srirangam",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Srirangam",
+    "parent": {
+      "uuid": "8ec38662-a951-4aba-b78a-239c62dfdb6a"
+    }
+  },
+  {
+    "uuid": "412e2e72-a328-44c4-bc82-da7c514f711f",
+    "name": "East",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Bangalore.East",
+    "parent": {
+      "uuid": "5747f8c8-6827-46cc-a035-ead968bce128"
+    }
+  },
+  {
+    "uuid": "177a1501-897f-47cf-ba47-03f94460f5ea",
+    "name": "Zone 1",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 1",
+    "parent": {
+      "uuid": "f8f2febc-6ab6-4bb1-8368-53d37ed22582"
+    }
+  },
+  {
+    "uuid": "cafa8df9-04ab-4352-9caa-c28ad3be5b93",
+    "name": "West",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Bangalore.West",
+    "parent": {
+      "uuid": "5747f8c8-6827-46cc-a035-ead968bce128"
+    }
+  },
+  {
+    "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252",
+    "name": "K.Abisekapuram",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.K.Abisekapuram",
+    "parent": {
+      "uuid": "8ec38662-a951-4aba-b78a-239c62dfdb6a"
+    }
+  },
+  {
+    "uuid": "539a5c07-8457-40e9-ba00-f136fbf3ef2e",
+    "name": "Bommanahalli",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Bangalore.Bommanahalli",
+    "parent": {
+      "uuid": "5747f8c8-6827-46cc-a035-ead968bce128"
+    }
+  },
+  {
+    "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823",
+    "name": "Narasimmanaickenpalayam",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Tamil Nadu.Narasimmanaickenpalayam.Narasimmanaickenpalayam",
+    "parent": {
+      "uuid": "b3492ffc-b75e-4150-8776-b2c7f92a2a31"
+    }
+  },
+  {
+    "uuid": "c4e53ceb-428e-445f-bcf2-0604fe221c10",
+    "name": "Zone 2",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 2",
+    "parent": {
+      "uuid": "f8f2febc-6ab6-4bb1-8368-53d37ed22582"
+    }
+  },
+  {
+    "uuid": "af81d384-2174-49c8-9eeb-1c951773575f",
+    "name": "Ariyamangalam",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Ariyamangalam",
+    "parent": {
+      "uuid": "8ec38662-a951-4aba-b78a-239c62dfdb6a"
+    }
+  },
+  {
+    "uuid": "af53b27b-7e56-422c-9c8d-96550add2929",
+    "name": "Zone 3",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 3",
+    "parent": {
+      "uuid": "f8f2febc-6ab6-4bb1-8368-53d37ed22582"
+    }
+  },
+  {
+    "uuid": "2de335f2-f816-46ed-b931-e88c92af6239",
+    "name": "Zone 8",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 8",
+    "parent": {
+      "uuid": "f8f2febc-6ab6-4bb1-8368-53d37ed22582"
+    }
+  },
+  {
+    "uuid": "83d3e17c-05b6-46ff-ac9a-a9970306dd18",
+    "name": "Zone 10",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 10",
+    "parent": {
+      "uuid": "f8f2febc-6ab6-4bb1-8368-53d37ed22582"
+    }
+  },
+  {
+    "uuid": "a61f07a5-7785-41b5-baec-5ed4f85ca5da",
+    "name": "Zone 11",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 11",
+    "parent": {
+      "uuid": "f8f2febc-6ab6-4bb1-8368-53d37ed22582"
+    }
+  },
+  {
+    "uuid": "78d2e827-70c3-42ce-b885-c7771361fd08",
+    "name": "Zone 7",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 7",
+    "parent": {
+      "uuid": "f8f2febc-6ab6-4bb1-8368-53d37ed22582"
+    }
+  },
+  {
+    "uuid": "cfebc257-6df9-4994-bf5b-22b9a4b733bc",
+    "name": "Zone 9",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 9",
+    "parent": {
+      "uuid": "f8f2febc-6ab6-4bb1-8368-53d37ed22582"
+    }
+  },
+  {
+    "uuid": "885cc88c-3818-4263-add2-76d434570e8d",
+    "name": "Goldenrock",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Tamil Nadu.Tiruchirappalli.Goldenrock",
+    "parent": {
+      "uuid": "8ec38662-a951-4aba-b78a-239c62dfdb6a"
+    }
+  },
+  {
+    "uuid": "26748d36-ab8f-4dfd-9180-fb4056911665",
+    "name": "Zone 12",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 12",
+    "parent": {
+      "uuid": "f8f2febc-6ab6-4bb1-8368-53d37ed22582"
+    }
+  },
+  {
+    "uuid": "c542b090-f3a9-430f-b762-0a01a005e21f",
+    "name": "South",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Bangalore.South",
+    "parent": {
+      "uuid": "5747f8c8-6827-46cc-a035-ead968bce128"
+    }
+  },
+  {
+    "uuid": "7768ce2c-f32f-4257-8a8c-26eeeaf5b35c",
+    "name": "Yelahanka",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Bangalore.Yelahanka",
+    "parent": {
+      "uuid": "5747f8c8-6827-46cc-a035-ead968bce128"
+    }
+  },
+  {
+    "uuid": "0b8dc58f-61d8-4c0a-ae79-c1210ab76c92",
+    "name": "Zone 4",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 4",
+    "parent": {
+      "uuid": "f8f2febc-6ab6-4bb1-8368-53d37ed22582"
+    }
+  },
+  {
+    "uuid": "a935b19a-aa69-4737-95bb-5149010d6a2d",
+    "name": "Dasarahalli",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Bangalore.Dasarahalli",
+    "parent": {
+      "uuid": "5747f8c8-6827-46cc-a035-ead968bce128"
+    }
+  },
+  {
+    "uuid": "c3997bee-90db-4ac3-ab1f-04d829ab2854",
+    "name": "Mahadevapura",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Bangalore.Mahadevapura",
+    "parent": {
+      "uuid": "5747f8c8-6827-46cc-a035-ead968bce128"
+    }
+  },
+  {
+    "uuid": "b1b32dcf-30d9-4abb-b7f2-65c5a17d6dfa",
+    "name": "Zone 5",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 5",
+    "parent": {
+      "uuid": "f8f2febc-6ab6-4bb1-8368-53d37ed22582"
+    }
+  },
+  {
+    "uuid": "978cf3c0-ce9b-4529-8d1d-0d21160bf133",
+    "name": "Zone 6",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Hubli-Dharwad.Zone 6",
+    "parent": {
+      "uuid": "f8f2febc-6ab6-4bb1-8368-53d37ed22582"
+    }
+  },
+  {
+    "uuid": "6712172e-52ce-47d5-9e2f-d6962ec33e0b",
+    "name": "Rajarajeshwari",
+    "level": 2,
+    "type": "Zone",
+    "nameLineage": "Karnataka.Bangalore.Rajarajeshwari",
+    "parent": {
+      "uuid": "5747f8c8-6827-46cc-a035-ead968bce128"
+    }
+  }
+]
