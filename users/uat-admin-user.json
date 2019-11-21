@@ -1,11 +1,11 @@
 [
   {
-    "uuid": "3ae70980-68d4-4b62-9c64-6d9e26773cef",
-    "name": "admin@hasiru",
+    "uuid": "e6a68fca-7207-4a3c-9f1c-be81d098c506",
+    "name": "admin@hasiru-karnataka",
     "password": "password",
     "email": "openchssupport+ddm+beta+1@samanvayfoundation.org",
     "phoneNumber": "+919923139403",
-    "organisationUUID": "a718baa6-13d7-4dbd-a0e5-5af3a1d36e29",
+    "organisationUUID": "b6e3a7ca-6899-4444-86f6-f2db8f6e8f77",
     "operatingIndividualScope": "None",
     "admin": false,
     "orgAdmin": true

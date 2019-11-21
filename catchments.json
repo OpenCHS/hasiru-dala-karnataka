@@ -1,59 +1,13 @@
 {
-  "organisation": "Hasiru Dala",
+  "organisation": "Hasiru Dala Karnataka",
   "catchments": [
     {
       "name": "Default",
-      "uuid": "4895b1b8-6721-4a7c-98e3-8a94b88d4e17",
+      "uuid": "4e7c3b58-086d-4ba9-a743-6841bce2a4bd",
       "type": "Default",
       "locations": [
         {
-          "uuid": "773b8fbd-ab7d-4a86-9bc6-70e8685332ee"
-        }
-      ]
-    },
-    {
-      "name": "Tamil Nadu Zones",
-      "uuid": "73eac33a-93c7-4305-8d77-567842d00319",
-      "type": "Zone",
-      "locations": [
-        {
-          "uuid": "ee7c54d3-130a-42a6-b952-9ae6e5fd437e",
-          "comment": "Periyanaickenpalayam"
-        },
-        {
-          "uuid": "25183399-744f-4253-8faa-3609b2e57ed0",
-          "comment": "Srirangam"
-        },
-        {
-          "uuid": "9c05eaf5-fe4c-4318-a0dc-9c3bbebed252",
-          "comment": "K.Abisekapuram"
-        },
-        {
-          "uuid": "3c877bbf-0f02-4b6c-b5b7-190ae822f823",
-          "comment": "Narasimmanaickenpalayam"
-        },
-        {
-          "uuid": "af81d384-2174-49c8-9eeb-1c951773575f",
-          "comment": "Ariyamangalam"
-        },
-        {
-          "uuid": "885cc88c-3818-4263-add2-76d434570e8d",
-          "comment": "Goldenrock"
-        }
-      ]
-    },
-    {
-      "name": "Karnataka Wards",
-      "uuid": "29f3dd57-2bc7-4d7e-8940-04cbfcc50a6d",
-      "type": "Ward",
-      "locations": [
-        {
-          "uuid": "773b8fbd-ab7d-4a86-9bc6-70e8685332ee",
-          "comment": "Marappana Palya"
-        },
-        {
-          "uuid": "4181504c-88a4-4040-8206-72d609776012",
-          "comment": "New Tippa Sandra"
+          "uuid": "8612a288-fe60-40c5-ac10-fbf776f17b47"
         }
       ]
     }

@@ -13,7 +13,7 @@ import {
 
 
 const WithRegistrationStatusBuilder = StatusBuilderAnnotationFactory('individual', 'formElement');
-const RegistrationViewFilter = RuleFactory("8dd651b2-4cba-4f5a-8453-d7ab1f2d4c70", "ViewFilter");
+const RegistrationViewFilter = RuleFactory("09d48e95-b4bc-44a5-8af0-c5971fe4cb1d", "ViewFilter");
 
 
 @RegistrationViewFilter("f33f4ded-3d29-4037-8610-3fdb037db578", "Hasiru Dala Registration View Filter", 100.0, {})
@@ -482,6 +482,7 @@ class RegistrationViewHandlerHasiruDala {
             .containsAnyAnswerConceptName("Worker / Informal Worker", "Relative Living with Worker / Informal Worker (Dependent)")
             .and.when.valueInRegistration("Whether you have any Other Cards").is.yes;
     }
+
     @WithName("Upload Photo of Other Card")
     @WithRegistrationStatusBuilder
     ID91([], statusBuilder) {
@@ -648,10 +649,15 @@ class RegistrationViewHandlerHasiruDala {
     }
 
 
-
     @WithRegistrationStatusBuilder
     doYouReceiveADisabilityPension([], statusBuilder) {
         statusBuilder.show().when.valueInRegistration("Do you have any partial/total disablement that affects your day-to-day functioning").is.yes;
+    }
+
+    @WithName("Please explain (Name Of The Disability Pension Scheme, Amount and Frequency)")
+    @WithRegistrationStatusBuilder
+    D412([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Do you receive a Disability Pension?").is.yes;
     }
 
     @WithName("Do you experience any of these?")
@@ -1500,7 +1506,7 @@ class RegistrationViewHandlerHasiruDala {
             .containsAnswerConceptName("Worker / Informal Worker");
     }
 
-    @WithName("Name of the club/associationn")
+    @WithName("Name of the club/association")
     @WithRegistrationStatusBuilder
     P66([], statusBuilder) {
         statusBuilder.show().when.valueInRegistration("Please choose the type of respondent")
@@ -1709,11 +1715,25 @@ class RegistrationViewHandlerHasiruDala {
             .containsAnyAnswerConceptName("Worker / Informal Worker", "Relative Living with Worker / Informal Worker (Dependent)");
     }
 
+    @WithName("Please explain (Name of the old age pension scheme, Amount and Frequency)")
+    @WithRegistrationStatusBuilder
+    SS11([], statusBuilder) {
+        console.log("==============");
+        statusBuilder.show().when.valueInRegistration("Do you get old age pension (OAP)?")
+            .containsAnswerConceptName("Yes");
+    }
+
     @WithName("Have you or any one in your house enrolled in a government sponsored health insurance scheme?")
     @WithRegistrationStatusBuilder
     SS2([], statusBuilder) {
         statusBuilder.show().when.valueInRegistration("Please choose the type of respondent")
             .containsAnyAnswerConceptName("Worker / Informal Worker", "Relative Living with Worker / Informal Worker (Dependent)");
+    }
+
+    @WithName("Please explain (Name of the scheme,Amount and Frequency)")
+    @WithRegistrationStatusBuilder
+    SS21([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Have you or any one in your house enrolled in a government sponsored health insurance scheme?").is.yes;
     }
 
     @WithName("Do you receive a widow pension?")
@@ -1725,6 +1745,12 @@ class RegistrationViewHandlerHasiruDala {
             .containsAnyAnswerConceptName("Worker / Informal Worker", "Relative Living with Worker / Informal Worker (Dependent)");
     }
 
+    @WithName("Please explain (Name of the widow pension scheme, Amount And Frequency)")
+    @WithRegistrationStatusBuilder
+    SS41([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Do you receive a widow pension?").is.yes;
+    }
+
     @WithName("Do you receive a single woman pension?")
     @WithRegistrationStatusBuilder
     SS5([], statusBuilder) {
@@ -1732,6 +1758,12 @@ class RegistrationViewHandlerHasiruDala {
             .and.when.valueInRegistration("gender").is.female
             .and.when.valueInRegistration("Please choose the type of respondent")
             .containsAnyAnswerConceptName("Worker / Informal Worker", "Relative Living with Worker / Informal Worker (Dependent)");
+    }
+
+    @WithName("Please explain (Name of the single woman pension scheme, Amount AND Frequency)")
+    @WithRegistrationStatusBuilder
+    SS51([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Do you receive a single woman pension?").is.yes;
     }
 
     @WithName("What is your profession?")
@@ -2633,7 +2665,6 @@ class RegistrationViewHandlerHasiruDala {
     }
 
 
-
     @WithName("Do you clean the storm water drains and other open drainages?")
     @WithRegistrationStatusBuilder
     swm1([], statusBuilder) {
@@ -3492,6 +3523,12 @@ class RegistrationViewHandlerHasiruDala {
             .containsAnyAnswerConceptName("Worker / Informal Worker", "Relative Living with Worker / Informal Worker (Dependent)");
     }
 
+    @WithName("Please explain(Name of the scholarship scheme, Amount and Frequency)")
+    @WithRegistrationStatusBuilder
+    dwr81([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Do you get any government sponsored scholarship?").is.yes;
+    }
+
     @WithName("Have you undergone any of the vocational trainings?")
     @WithRegistrationStatusBuilder
     training1([], statusBuilder) {
@@ -3526,21 +3563,108 @@ class RegistrationViewHandlerHasiruDala {
         statusBuilder.show().when.valueInRegistration("Do you have a local address proof?").containsAnswerConceptName('Yes')
     }
 
-    @WithName("Upload Photo of id")
+    // // @WithName("Upload Photo of id")
+    // @WithRegistrationStatusBuilder
+    // training54([], statusBuilder) {
+    //     statusBuilder.show().when.valueInRegistration("Whether you have Voter Registration Card").containsAnswerConceptName('Yes')
+    //         .or.when.valueInRegistration("Whether you have Ration/BPL Card with your name included").containsAnswerConceptName("Yes")
+    //         .or.when.valueInRegistration("Whether you have Aadhar Card").containsAnswerConceptName("Yes")
+    //         .or.when.valueInRegistration("Whether you have Aadhar Enrolment ID").containsAnswerConceptName("Yes")
+    //         .or.when.valueInRegistration("Whether you have Health Card").containsAnswerConceptName("Yes")
+    //         .or.when.valueInRegistration("Whether you have PAN Card").containsAnswerConceptName("Yes")
+    //         .or.when.valueInRegistration("Whether you have Driving license").containsAnswerConceptName("Yes")
+    //         .or.when.valueInRegistration("Whether you have Cast Certificate").containsAnswerConceptName("Yes")
+    //         .or.when.valueInRegistration("Do you have Income Certificate").containsAnswerConceptName("Yes");
+    //
+    // }
+
+    @WithName("Do you have a local address proof?")
     @WithRegistrationStatusBuilder
-    training54([], statusBuilder) {
-        statusBuilder.show().when.valueInRegistration("Whether you have Voter Registration Card").containsAnswerConceptName('Yes')
-            .or.when.valueInRegistration("Whether you have Ration/BPL Card with your name included").containsAnswerConceptName("Yes")
-            .or.when.valueInRegistration("Whether you have Aadhar Card").containsAnswerConceptName("Yes")
-            .or.when.valueInRegistration("Whether you have Aadhar Enrolment ID").containsAnswerConceptName("Yes")
-            .or.when.valueInRegistration("Whether you have Health Card").containsAnswerConceptName("Yes")
-            .or.when.valueInRegistration("Whether you have PAN Card").containsAnswerConceptName("Yes")
-            .or.when.valueInRegistration("Whether you have Driving license").containsAnswerConceptName("Yes")
-            .or.when.valueInRegistration("Whether you have Cast Certificate").containsAnswerConceptName("Yes")
-            .or.when.valueInRegistration("Do you have Income Certificate").containsAnswerConceptName("Yes");
+    phid122([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Please choose the type of respondent").containsAnswerConceptNameOtherThan("Relative Living with Worker / Informal Worker (Not Dependent)");
 
     }
 
+    @WithName("Please select the type of local address proof")
+    @WithRegistrationStatusBuilder
+    phid123([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Please choose the type of respondent").containsAnswerConceptNameOtherThan("Relative Living with Worker / Informal Worker (Not Dependent)");
+
+    }
+
+    @WithName("Name of local ID")
+    @WithRegistrationStatusBuilder
+    phid124([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Please choose the type of respondent").containsAnswerConceptNameOtherThan("Relative Living with Worker / Informal Worker (Not Dependent)");
+
+    }
+
+    @WithName("Local ID description")
+    @WithRegistrationStatusBuilder
+    phid125([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Please choose the type of respondent").containsAnswerConceptNameOtherThan("Relative Living with Worker / Informal Worker (Not Dependent)");
+
+    }
+
+    @WithName("Upload Photo of Voter Id")
+    @WithRegistrationStatusBuilder
+    phid1([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Whether you have Voter Registration Card").containsAnswerConceptName('Yes')
+
+    }
+
+    @WithName("Upload Photo of Ration/BPL Card")
+    @WithRegistrationStatusBuilder
+    phid2([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Whether you have Ration/BPL Card with your name included").containsAnswerConceptName('Yes')
+
+    }
+
+
+    @WithName("Upload Photo of Aadhar Card")
+    @WithRegistrationStatusBuilder
+    phid3([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Whether you have Aadhar Card").containsAnswerConceptName('Yes')
+
+    }
+
+
+    @WithName("Upload Photo of PAN Card")
+    @WithRegistrationStatusBuilder
+    phid4([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Whether you have PAN Card").containsAnswerConceptName('Yes')
+
+    }
+
+
+    @WithName("Upload Photo of Driving License Card")
+    @WithRegistrationStatusBuilder
+    phid6([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Whether you have Driving license").containsAnswerConceptName('Yes')
+
+    }
+
+    @WithName("Upload Photo of Cast certificate")
+    @WithRegistrationStatusBuilder
+    phid7([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Whether you have Cast Certificate").containsAnswerConceptName('Yes')
+
+    }
+
+    @WithName("Upload Photo of Income Certificate")
+    @WithRegistrationStatusBuilder
+    phid8([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Do you have Income Certificate").containsAnswerConceptName('Yes')
+
+    }
+
+
+    @WithName("Upload Photo of Aadhar Enrolment ID")
+    @WithRegistrationStatusBuilder
+    phid9([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Whether you have Aadhar Enrolment ID").containsAnswerConceptName('Yes')
+
+    }
 
 }
 

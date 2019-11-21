@@ -1,6 +1,6 @@
 {
   "name": "Registration",
-  "uuid": "8dd651b2-4cba-4f5a-8453-d7ab1f2d4c70",
+  "uuid": "09d48e95-b4bc-44a5-8af0-c5971fe4cb1d",
   "formType": "IndividualProfile",
   "formElementGroups": [
     {
@@ -766,6 +766,16 @@
           "mandatory": true
         },
         {
+          "name": "Upload Photo of Voter Id",
+          "uuid": "bbe0e015-8cc5-4ced-b978-6f40f46b5bc6",
+          "keyValues": [],
+          "concept": {
+            "uuid": "429b4f74-be8f-4c63-b8d7-8ff574adfe6b"
+          },
+          "displayOrder": 1.2,
+          "mandatory": true
+        },
+        {
           "name": "Whether you have Ration/BPL Card with your name included",
           "uuid": "c3d6e62f-7e16-495e-b899-16492003642c",
           "keyValues": [],
@@ -773,6 +783,16 @@
             "uuid": "28d66d45-5d71-4648-acc7-9a18716b98e0"
           },
           "displayOrder": 4,
+          "mandatory": true
+        },
+        {
+          "name": "Upload Photo of Ration/BPL Card",
+          "uuid": "ff50b0dd-af42-4336-87b6-fed560411911",
+          "keyValues": [],
+          "concept": {
+            "uuid": "80e58886-33fe-4aea-81e0-18a9b196cdcc"
+          },
+          "displayOrder": 4.2,
           "mandatory": true
         },
         {
@@ -786,6 +806,16 @@
           "mandatory": true
         },
         {
+          "name": "Upload Photo of Aadhar Card",
+          "uuid": "aaed69fd-5b5d-4cce-aa3c-6e988db8bedc",
+          "keyValues": [],
+          "concept": {
+            "uuid": "be129af3-8938-4cf8-ab07-020524f9fc1e"
+          },
+          "displayOrder": 7.2,
+          "mandatory": true
+        },
+        {
           "name": "Whether you have Aadhar Enrolment ID",
           "uuid": "716508dd-81c3-4c36-a903-3322c3fd70fe",
           "keyValues": [],
@@ -794,6 +824,16 @@
           },
           "displayOrder": 10,
           "mandatory": false
+        },
+        {
+          "name": "Upload Photo of Aadhar Enrolment ID",
+          "uuid": "bb9f383d-a4cd-4f32-8cf0-709a09e4137c",
+          "keyValues": [],
+          "concept": {
+            "uuid": "331b1d4a-ec7e-40bd-84c3-462c323c0620"
+          },
+          "displayOrder": 10.2,
+          "mandatory": true
         },
         {
           "name": "Whether you have Labour Card",
@@ -825,6 +865,17 @@
           "displayOrder": 19,
           "mandatory": true
         },
+
+        {
+          "name": "Upload Photo of PAN Card",
+          "uuid": "bf3f8450-bca2-4177-b275-c3c8dda13d52",
+          "keyValues": [],
+          "concept": {
+            "uuid": "4f7f1fce-142a-432c-bd4a-e72e6b3bbfd9"
+          },
+          "displayOrder": 19.2,
+          "mandatory": true
+        },
         {
           "name": "Whether you have Driving license",
           "uuid": "01154e94-81c1-4cc3-89f2-999eb06fb433",
@@ -833,6 +884,16 @@
             "uuid": "0e2fa18f-9840-4187-bb90-3c7ef92c05d9"
           },
           "displayOrder": 20,
+          "mandatory": true
+        },
+        {
+          "name": "Upload Photo of Driving License Card",
+          "uuid": "c4c57b83-7d39-4d9f-b3b0-c43ee43ae716",
+          "keyValues": [],
+          "concept": {
+            "uuid": "178b675a-6373-4f01-8035-8c0aa2e66bcd"
+          },
+          "displayOrder": 20.2,
           "mandatory": true
         },
         {
@@ -846,6 +907,16 @@
           "mandatory": true
         },
         {
+          "name": "Upload Photo of Cast certificate",
+          "uuid": "eadceb8e-f021-411e-b0c6-73b68576a37d",
+          "keyValues": [],
+          "concept": {
+            "uuid": "e12f5b16-088c-4406-996b-ecb3a09126b0"
+          },
+          "displayOrder": 21.2,
+          "mandatory": true
+        },
+        {
           "name": "Do you have Income Certificate",
           "uuid": "04dbf8e5-6534-4169-bfe9-68768c16f7c4",
           "keyValues": [],
@@ -853,6 +924,16 @@
             "uuid": "685b9b91-deb3-475f-b1ed-e18fed8f1560"
           },
           "displayOrder": 22,
+          "mandatory": true
+        },
+        {
+          "name": "Upload Photo of Income Certificate",
+          "uuid": "a4052940-0f88-451f-acf0-4719f72e7425",
+          "keyValues": [],
+          "concept": {
+            "uuid": "5296ba3a-d710-4a6a-9289-01a36203457e"
+          },
+          "displayOrder": 22.2,
           "mandatory": true
         },
         {
@@ -873,7 +954,8 @@
             "uuid": "4f60af9f-fe12-43c3-b1da-d72ddc481752"
           },
           "displayOrder": 23.5,
-          "mandatory": true
+          "mandatory": true,
+          "voided": true
         },
         {
           "name": "Name of the ID",
@@ -2160,6 +2242,17 @@
           "mandatory": true
         },
         {
+          "name": "Please explain (Name of the old age pension scheme, Amount and Frequency)",
+          "uuid": "a73d39af-d038-4837-8dd6-c5b4506beeea",
+          "keyValues": [],
+          "concept": {
+            "uuid": "20a6edcd-f754-457c-ac5b-793567e9a2a9"
+          },
+          "displayOrder": 3.5,
+          "mandatory": false
+        },
+
+        {
           "name": "Have you or any one in your house enrolled in a government sponsored health insurance scheme?",
           "uuid": "9ffe5738-aee0-4e66-9bf4-9e58be6ec89b",
           "keyValues": [],
@@ -2169,6 +2262,16 @@
           },
           "displayOrder": 4,
           "mandatory": true
+        },
+        {
+          "name": "Please explain (Name of the scheme,Amount and Frequency)",
+          "uuid": "19626bac-00a0-4800-ab25-512ef70b76a2",
+          "keyValues": [],
+          "concept": {
+            "uuid": "c32ca4d3-f8e1-4ed3-8f1a-501542392bd9"
+          },
+          "displayOrder": 4.5,
+          "mandatory": false
         },
         {
           "name": "Do you get any government sponsored scholarship?",
@@ -2181,6 +2284,16 @@
           "mandatory": true
         },
         {
+          "name": "Please explain(Name of the scholarship scheme, Amount and Frequency)",
+          "uuid": "9020d7b1-070d-465e-b4d9-55d74501ecf0",
+          "keyValues": [],
+          "concept": {
+            "uuid": "73c1c96b-ee72-4574-8b96-41e76de8839b"
+          },
+          "displayOrder": 5.5,
+          "mandatory": false
+        },
+        {
           "name": "Do you receive a widow pension?",
           "uuid": "92d06d55-8916-4569-a16a-692a9200ddfa",
           "keyValues": [],
@@ -2189,6 +2302,16 @@
           },
           "displayOrder": 6,
           "mandatory": true
+        },
+        {
+          "name": "Please explain (Name of the widow pension scheme, Amount And Frequency)",
+          "uuid": "0c0edb12-1022-4bf6-a74b-0db35eb95a9b",
+          "keyValues": [],
+          "concept": {
+            "uuid": "10dfbeb4-9aea-4df6-a9d9-2143e182bb8e"
+          },
+          "displayOrder": 6.5,
+          "mandatory": false
         },
         {
           "name": "Do you receive a single woman pension?",
@@ -2201,6 +2324,16 @@
           "mandatory": true
         },
         {
+          "name": "Please explain (Name of the single woman pension scheme, Amount AND Frequency)",
+          "uuid": "a40700fb-169b-46fa-a260-3019d2ac9449",
+          "keyValues": [],
+          "concept": {
+            "uuid": "66d91f73-daff-4885-854f-79691da8ce61"
+          },
+          "displayOrder": 7.5,
+          "mandatory": false
+        },
+        {
           "name": "Do you receive a Disability Pension?",
           "uuid": "7a1c38aa-0ed7-46b7-9280-ede0dc3750f8",
           "keyValues": [],
@@ -2209,6 +2342,16 @@
           },
           "displayOrder": 8,
           "mandatory": true
+        },
+        {
+          "name": "Please explain (Name Of The Disability Pension Scheme, Amount and Frequency)",
+          "uuid": "1eaf4beb-e971-42f4-9f3c-48e7be8829a5",
+          "keyValues": [],
+          "concept": {
+            "uuid": "c97be1c3-ef3f-44b6-8c27-627c6895c3cc"
+          },
+          "displayOrder": 8.5,
+          "mandatory": false
         }
       ]
     },

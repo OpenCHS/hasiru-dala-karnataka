@@ -12,5 +12,9 @@
     "openchs-idi": "github:openchs/openchs-idi#b6c57e051b91ed4bc2634f4f087dba51cc3a01c8",
     "rules-config": "github:openchs/rules-config#c83e1e47f1618c56c5839de6708915d76db32056",
     "webpack": "^4.12.0"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.15",
+    "uuid": "^3.3.3"
   }
 }

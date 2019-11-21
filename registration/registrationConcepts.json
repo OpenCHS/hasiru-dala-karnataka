@@ -6764,6 +6764,73 @@
     "uuid": "1b71c0ad-f261-4ddf-9513-8af340acbf53",
     "dataType": "Image"
 
+  },
+  {
+    "name": "Please explain (Name of the old age pension scheme, Amount and Frequency)",
+    "uuid": "20a6edcd-f754-457c-ac5b-793567e9a2a9",
+    "dataType": "Text"
+  },
+  {
+    "name": "Please explain (Name of the scheme,Amount and Frequency)",
+    "uuid": "c32ca4d3-f8e1-4ed3-8f1a-501542392bd9",
+    "dataType": "Text"
+  },
+  {
+    "name": "Please explain(Name of the scholarship scheme, Amount and Frequency)",
+    "uuid": "73c1c96b-ee72-4574-8b96-41e76de8839b",
+    "dataType": "Text"
+  },
+  {
+    "name": "Please explain (Name of the widow pension scheme, Amount And Frequency)",
+    "uuid": "10dfbeb4-9aea-4df6-a9d9-2143e182bb8e",
+    "dataType": "Text"
+  },
+  {
+    "name": "Please explain (Name of the single woman pension scheme, Amount AND Frequency)",
+    "uuid": "66d91f73-daff-4885-854f-79691da8ce61",
+    "dataType": "Text"
+  },
+  {
+    "name": "Please explain (Name Of The Disability Pension Scheme, Amount and Frequency)",
+    "uuid": "c97be1c3-ef3f-44b6-8c27-627c6895c3cc",
+    "dataType": "Text"
+  },
+  {
+    "name": "Upload Photo of Voter Id",
+    "uuid": "429b4f74-be8f-4c63-b8d7-8ff574adfe6b",
+    "dataType": "Image"
+  },
+  {
+    "name": "Upload Photo of Ration/BPL Card",
+    "uuid": "80e58886-33fe-4aea-81e0-18a9b196cdcc",
+    "dataType": "Image"
+  },
+  {
+    "name": "Upload Photo of Aadhar Card",
+    "uuid": "be129af3-8938-4cf8-ab07-020524f9fc1e",
+    "dataType": "Image"
+  },
+  {
+    "name": "Upload Photo of Aadhar Enrolment ID",
+    "uuid": "331b1d4a-ec7e-40bd-84c3-462c323c0620",
+    "dataType": "Image"
+  },
+  {
+    "name": "Upload Photo of PAN Card",
+    "uuid": "4f7f1fce-142a-432c-bd4a-e72e6b3bbfd9",
+    "dataType": "Image"
+  },{
+    "name": "Upload Photo of Driving License Card",
+    "uuid": "178b675a-6373-4f01-8035-8c0aa2e66bcd",
+    "dataType": "Image"
+  },{
+    "name": "Upload Photo of Income Certificate",
+    "uuid": "5296ba3a-d710-4a6a-9289-01a36203457e",
+    "dataType": "Image"
+  },{
+    "name": "Upload Photo of Cast certificate",
+    "uuid": "e12f5b16-088c-4406-996b-ecb3a09126b0",
+    "dataType": "Image"
   }
 
 ]

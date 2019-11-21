@@ -1,12 +1,12 @@
 [
   {
-    "uuid": "6cff9e51-d5d6-4d44-abdf-0f21aaa6cfb2",
-    "name": "staging@hasiru",
+    "uuid": "80a13bb5-e6ed-40db-a4a2-0b0dd448caca",
+    "name": "staging@hasiru-karnataka",
     "password": "password",
     "email": "openchssupport+hasiru@samanvayfoundation.org",
     "phoneNumber": "+919923139403",
-    "organisationUUID": "a718baa6-13d7-4dbd-a0e5-5af3a1d36e29",
-    "catchmentUUID": "4895b1b8-6721-4a7c-98e3-8a94b88d4e17",
+    "organisationUUID": "b6e3a7ca-6899-4444-86f6-f2db8f6e8f77",
+    "catchmentUUID": "4e7c3b58-086d-4ba9-a743-6841bce2a4bd",
     "operatingIndividualScope": "ByCatchment",
     "admin": false,
     "orgAdmin": false
