@@ -163,14 +163,6 @@
     "name": "FC"
   },
   {
-    "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
-    "name": "No Response"
-  },
-  {
-    "uuid": "6a76ce42-0e9b-4467-beee-014bf4ac243c",
-    "name": "Other"
-  },
-  {
     "name": "Caste/Community",
     "uuid": "43184a9f-5092-4211-ade0-2949f4b438a2",
     "dataType": "Coded",
@@ -265,10 +257,6 @@
   {
     "uuid": "4082b336-4416-45a5-b725-733bd4d95f28",
     "name": "Skill/Vocational Training"
-  },
-  {
-    "uuid": "6a76ce42-0e9b-4467-beee-014bf4ac243c",
-    "name": "Other"
   },
   {
     "name": "Level of Education",
@@ -791,14 +779,6 @@
     "name": "My choice"
   },
   {
-    "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
-    "name": "No Response"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "Why did you choose this occupation?",
     "uuid": "fe1b8176-ec04-4b06-b03a-3ba3aa7ea11e",
     "dataType": "Coded",
@@ -866,10 +846,6 @@
   {
     "uuid": "d20aff4f-f68f-4e01-a377-62f373170e79",
     "name": "NGO/SHG/CBO authorized to issue the card"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "Please select the body that issued the Occupational Identity Card",
@@ -1118,10 +1094,6 @@
     "name": "Don't know "
   },
   {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "What is the type of ownership of land on which your house is built?",
     "uuid": "eed732f7-aa38-4b2c-80b8-73c9e7a0f174",
     "dataType": "Coded",
@@ -1186,10 +1158,6 @@
     "name": "Sheet"
   },
   {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "What is the type of roofing of your house?",
     "uuid": "418206d7-6c60-4f8f-9bb5-ce04c8917853",
     "dataType": "Coded",
@@ -1220,10 +1188,6 @@
     "name": "roofing - Please Elaborate",
     "uuid": "8984763b-604c-4354-ae0a-6155f8316b3d",
     "dataType": "Text"
-  },
-  {
-    "uuid": "13d961e4-7c6e-4c7f-96fa-76aaac5e43e7",
-    "name": "Own"
   },
   {
     "uuid": "82ff040c-e765-47dc-9b2c-21791411b1e2",
@@ -1458,10 +1422,6 @@
     "name": "My hands are weak; I cannot hold things for long."
   },
   {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "Do you experience any of these?",
     "uuid": "c4977a35-b91b-4d29-b948-cd1d61090e8d",
     "dataType": "Coded",
@@ -1553,10 +1513,6 @@
     "name": "Inside and Outside City/Town"
   },
   {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "Working Area",
     "uuid": "79296eee-0bf5-4b35-8ec7-06b5fed71a1c",
     "dataType": "Coded",
@@ -1629,10 +1585,6 @@
   {
     "uuid": "16524706-2261-42ec-9da8-ff648391aab0",
     "name": "Few days a month"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "Frequency of work (How often do you get work?)",
@@ -1740,14 +1692,6 @@
   {
     "uuid": "dcbefcb5-a2a8-401d-9978-45d379221274",
     "name": "Work Difficulty"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
-    "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
-    "name": "No Response"
   },
   {
     "name": "Basis of Income",
@@ -1893,10 +1837,6 @@
     "name": "Bank account transfer"
   },
   {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "Mode of Payment",
     "uuid": "188549be-f224-454b-8a3e-9a2a27ecf490",
     "dataType": "Coded",
@@ -1925,10 +1865,6 @@
     "dataType": "Text"
   },
   {
-    "uuid": "4baa98c8-a88b-4531-947b-2f214babdf3e",
-    "name": "ULB"
-  },
-  {
     "uuid": "64613104-809d-423e-a672-df36a2a2e69b",
     "name": "State/Central Government Department/Agency"
   },
@@ -1947,10 +1883,6 @@
   {
     "uuid": "384ced86-1d35-4a3c-a34d-7bf131d9fda2",
     "name": "User fee"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "Who hands over the cash/cheque or makes the money transfer?",
@@ -2156,10 +2088,6 @@
     "name": "Occasional"
   },
   {
-    "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
-    "name": "No Response"
-  },
-  {
     "name": "When do you consume alcohol/narcotic drugs?",
     "uuid": "2b35ad0f-a8fa-40af-bb30-169cb923336e",
     "dataType": "Coded",
@@ -2213,10 +2141,6 @@
   {
     "uuid": "ab654311-d0c3-4f78-ad0b-8eb06253dfde",
     "name": "Self-medication"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "If you or someone is sick at home where do you go for medical help?",
@@ -2317,14 +2241,6 @@
     ]
   },
   {
-    "name": "Yes",
-    "uuid": "99d2a63e-9390-4fe9-b020-8fc248705392"
-  },
-  {
-    "name": "No",
-    "uuid": "3bdb940c-77f5-4a2d-bb15-da4d609970b8"
-  },
-  {
     "uuid": "08dda159-e204-4c49-8f7e-3dc5cd6707e4",
     "name": "May be"
   },
@@ -2384,10 +2300,6 @@
   {
     "uuid": "261d9d8f-a073-4f23-9388-6781b3701216",
     "name": "Occasionally"
-  },
-  {
-    "uuid": "bd4b89c3-fc07-47a5-9be8-b3e8d14053e9",
-    "name": "Never"
   },
   {
     "name": "How often do you use Gloves for emptying and collecting",
@@ -2962,10 +2874,6 @@
     "name": "Private Finance"
   },
   {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "Who do you approach when you need loan?",
     "uuid": "a752867a-f2b3-486a-96d3-3b9966955d3c",
     "dataType": "Coded",
@@ -3195,10 +3103,6 @@
   {
     "uuid": "e8f28442-e599-4aab-9204-9d2fba5ce897",
     "name": "Unemployed"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "What is your profession?",
@@ -3431,10 +3335,6 @@
     "name": "Contract Sanitation Worker  "
   },
   {
-    "uuid": "c42c683a-6389-41c5-9e71-ff0e80b6d854",
-    "name": "Any Other"
-  },
-  {
     "name": "Do you have any additional jobs?",
     "uuid": "e9be897d-0e8d-4a87-bd0e-5cd507823501",
     "dataType": "Coded",
@@ -3481,10 +3381,6 @@
   {
     "uuid": "447bcec8-54e2-4f22-8af4-ba76881fdca0",
     "name": "Organic Waste Processing"
-  },
-  {
-    "uuid": "9ef3bb7c-b8d4-40b3-8439-4c5f1b4fb033",
-    "name": "Event Waste Management"
   },
   {
     "uuid": "103d7c81-6e8b-4bfc-a18e-51b966e02186",
@@ -3569,10 +3465,6 @@
   {
     "uuid": "9f553973-fb33-4b2d-a4b4-f67749b8b3b6",
     "name": "Once a week"
-  },
-  {
-    "uuid": "261d9d8f-a073-4f23-9388-6781b3701216",
-    "name": "Occasionally"
   },
   {
     "name": "How often do you collect scrap/go waste picking?",
@@ -3669,10 +3561,6 @@
     "name": "Religious places"
   },
   {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "What are your sources of waste?",
     "uuid": "69104418-4f8f-4c3c-845e-e4995d8a020d",
     "dataType": "Coded",
@@ -3741,10 +3629,6 @@
     "name": "Cardboard"
   },
   {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "What are the kinds of waste you pick/sort?",
     "uuid": "a59e77bb-592c-4476-9dac-20d9f2d03dc6",
     "dataType": "Coded",
@@ -3799,10 +3683,6 @@
   {
     "uuid": "94474baa-2cdd-4e4b-97dd-ebe7cd6a7165",
     "name": "Large scrap shop beyond 3 kilometres"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "Details of the buyer to whom you sell your waste",
@@ -4363,10 +4243,6 @@
     "dataType": "Text"
   },
   {
-    "uuid": "bdf50aba-1dbe-4c9e-88c8-e96d8f27e460",
-    "name": "Less than 0.5 km"
-  },
-  {
     "uuid": "2321edd7-11d7-4cdb-9c84-5cd2b55a2afe",
     "name": "0.5 km-1 km"
   },
@@ -4420,10 +4296,6 @@
   {
     "uuid": "d6bfe903-5d9a-450d-9494-4c3ce419ec50",
     "name": "Basket"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "How do you carry your waste after collection from households/establishments?",
@@ -4634,10 +4506,6 @@
     "name": "Run incinerator"
   },
   {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "What work do you do at there?",
     "uuid": "f856e489-d692-433b-b88f-a598336e0705",
     "dataType": "Coded",
@@ -4759,10 +4627,6 @@
     ]
   },
   {
-    "uuid": "ae87497a-1ce2-4172-8d5f-992ed678f118",
-    "name": "1 hour"
-  },
-  {
     "uuid": "f4394297-e0e1-4ba2-9ce1-ea9b52c5e509",
     "name": "1-3 hours"
   },
@@ -4838,10 +4702,6 @@
     "name": "Stick broom"
   },
   {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "What kind of brooms do you use?",
     "uuid": "dffe35ba-836f-48f2-9cc6-a030c9a49e4c",
     "dataType": "Coded",
@@ -4880,10 +4740,6 @@
   {
     "uuid": "50fbea06-7587-4f14-b0a5-b2e0f2e14014",
     "name": "Once in 6 month"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "How often do you get new broom?",
@@ -4947,16 +4803,8 @@
     "name": "Self-Leased"
   },
   {
-    "uuid": "4baa98c8-a88b-4531-947b-2f214babdf3e",
-    "name": "ULB"
-  },
-  {
     "uuid": "7f5b3873-d1a9-4b77-bc2a-aef13e1c220b",
     "name": "Private"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "Ownership of the truck",
@@ -5168,10 +5016,6 @@
     "name": "Community Toilet/Public Toilet"
   },
   {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "What type of customers do you serve?",
     "uuid": "d47bfcae-e925-492e-9f69-b8f32e2ea0e2",
     "dataType": "Coded",
@@ -5258,10 +5102,6 @@
     "name": "Every time"
   },
   {
-    "uuid": "261d9d8f-a073-4f23-9388-6781b3701216",
-    "name": "Occasionally"
-  },
-  {
     "name": "How often do you enter the tank?",
     "uuid": "b18fdcfe-9eef-411f-9330-b2b4dd64f78a",
     "dataType": "Coded",
@@ -5291,10 +5131,6 @@
   {
     "uuid": "f89bdd4f-4b21-4896-8d35-73994f31ac81",
     "name": "Instruction from the truck owner"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "What are the reasons for entering into the tank?",
@@ -5383,20 +5219,8 @@
     ]
   },
   {
-    "uuid": "13d961e4-7c6e-4c7f-96fa-76aaac5e43e7",
-    "name": "Own"
-  },
-  {
     "uuid": "6c0b4954-944e-49c8-aff4-9051fe6517d9",
     "name": "Truck owner"
-  },
-  {
-    "uuid": "4baa98c8-a88b-4531-947b-2f214babdf3e",
-    "name": "ULB"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "Who provided these tools?",
@@ -5740,10 +5564,6 @@
     "name": "Railways"
   },
   {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "Where do you carry out toilet cleaning activities?",
     "uuid": "998ab554-1de5-41c6-affc-cd09142bcd32",
     "dataType": "Coded",
@@ -5858,14 +5678,6 @@
     "name": "Users"
   },
   {
-    "uuid": "f6a94145-e2ac-47c3-b64c-6ff74852ace8",
-    "name": "Self"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "Who decides frequency of cleaning?",
     "uuid": "816a132f-25b8-4314-a00a-0b8c2613c47e",
     "dataType": "Coded",
@@ -5916,10 +5728,6 @@
   {
     "uuid": "2ed506ca-b0c5-49ff-821c-aa6c05f21a65",
     "name": "Tablet"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "What cleaning materials do you use?",
@@ -5980,10 +5788,6 @@
   {
     "uuid": "f7e95f3e-780c-4860-b7a3-af3b30cfd5da",
     "name": "Contractors"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "Who pays for cleaning material?",
@@ -6057,10 +5861,6 @@
     "name": "Burnt"
   },
   {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "How do you dispose the clogged / contaminated waste?",
     "uuid": "43f711df-fc55-47a6-881b-0145226adc2d",
     "dataType": "Coded",
@@ -6113,10 +5913,6 @@
     "name": "Baby sitting"
   },
   {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
-  },
-  {
     "name": "Is there any other work you do in the house / institution / establishment / office?",
     "uuid": "38da7597-ed42-4e84-a56a-d11b6d9af8f0",
     "dataType": "Coded",
@@ -6159,14 +5955,6 @@
   {
     "uuid": "a3be6215-def7-48c8-9c4a-984feab95f2c",
     "name": "Individual"
-  },
-  {
-    "uuid": "eb75e9fe-f373-4113-af79-8587b36df75f",
-    "name": "1-2"
-  },
-  {
-    "uuid": "ed607e29-af07-44b1-855a-5e07106209a7",
-    "name": "3-4"
   },
   {
     "uuid": "cdf7d6f8-b100-4afe-9c59-c482189c0db5",
@@ -6227,24 +6015,12 @@
     "name": "Hand Implements (Mechanical)"
   },
   {
-    "uuid": "214f4f46-b2e7-44bf-9f7e-c639ca905f37",
-    "name": "Brush"
-  },
-  {
-    "uuid": "fa00600b-4a84-4d4c-b4b6-23fe15f27878",
-    "name": "Broom"
-  },
-  {
     "uuid": "436962d5-71e3-4830-a16e-762acd4ce04c",
     "name": "Stick "
   },
   {
     "uuid": "793ddf0b-cd61-41fd-af7f-0f886c215547",
     "name": "Cloth"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "What are tools/implants used at work?",
@@ -6287,24 +6063,8 @@
     "dataType": "Text"
   },
   {
-    "uuid": "68120cd5-917c-40fd-b887-a6b4fce53ea9",
-    "name": "Government"
-  },
-  {
-    "uuid": "c09d950c-ebe9-415d-a39a-094658a2ac55",
-    "name": "Self (Included in fee)"
-  },
-  {
-    "uuid": "f7e95f3e-780c-4860-b7a3-af3b30cfd5da",
-    "name": "Contractors"
-  },
-  {
     "uuid": "16ff4ebf-4477-4c6c-87df-8c30a8fdbe85",
     "name": "Work location"
-  },
-  {
-    "uuid": "b5ad1072-c1bc-4ffb-9631-24e1dd17f021",
-    "name": "SHG"
   },
   {
     "name": "Who provided these implants?",
@@ -6368,10 +6128,6 @@
   {
     "uuid": "7b4e238b-0875-492d-93a9-13669600e4d6",
     "name": "Overall cleaning and upkeep of the pumping station / STP"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "What work do you perform at decanting station / Sewage Treatment Plant? ",
@@ -6499,18 +6255,6 @@
   {
     "uuid": "b872a6ed-2b3b-4794-a651-ff138b2fe48d",
     "name": "Sent with municipal/solid waste"
-  },
-  {
-    "uuid": "4e12878b-57ba-4b67-846a-1a804bc7eeb9",
-    "name": "Dumped in open"
-  },
-  {
-    "uuid": "c782533f-92cb-47d6-ac2e-aa7b7c1aef46",
-    "name": "Burnt"
-  },
-  {
-    "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
-    "name": "Others"
   },
   {
     "name": "How do you dispose the collected waste?",
