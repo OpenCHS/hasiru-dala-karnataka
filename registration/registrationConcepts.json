@@ -1115,7 +1115,7 @@
   },
   {
     "uuid": "4028b1a7-1fcb-4b52-b2d5-e8801a92f74c",
-    "name": "Don’t know "
+    "name": "Don't know "
   },
   {
     "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
@@ -1156,7 +1156,7 @@
       },
       {
         "uuid": "4028b1a7-1fcb-4b52-b2d5-e8801a92f74c",
-        "name": "Don’t know "
+        "name": "Don't know "
       },
       {
         "uuid": "12b7fab3-4226-46ed-b3ae-e97e2fdfcca7",
@@ -1491,19 +1491,19 @@
   },
   {
     "uuid": "2119a41a-3232-4595-b393-a67f01931037",
-    "name": "Self Employed – Operate their enterprise, may hire helper"
+    "name": "Self Employed - Operate their enterprise, may hire helper"
   },
   {
     "uuid": "57321516-2148-42ab-8480-9c1bbead77d6",
-    "name": "Contract – Payment received is other than daily wage / hour rate (Weekly / Fortnightly / Monthly) through contractor or establishment, though calculations maybe based on daily rate/hours"
+    "name": "Contract - Payment received is other than daily wage / hour rate (Weekly / Fortnightly / Monthly) through contractor or establishment, though calculations maybe based on daily rate/hours"
   },
   {
     "uuid": "ad55c4d9-9637-43cf-a948-c8bd2d229900",
-    "name": "Employee – Employed with government or private organization, having social security benefits"
+    "name": "Employee - Employed with government or private organization, having social security benefits"
   },
   {
     "uuid": "bcc5897a-3125-4086-b260-c2a3136dd9ca",
-    "name": "Daily wage – Payment is received daily / hour rate"
+    "name": "Daily wage - Payment is received daily / hour rate"
   },
   {
     "name": "Nature of Employment",
@@ -1512,19 +1512,19 @@
     "answers": [
       {
         "uuid": "2119a41a-3232-4595-b393-a67f01931037",
-        "name": "Self Employed – Operate their enterprise, may hire helper"
+        "name": "Self Employed - Operate their enterprise, may hire helper"
       },
       {
         "uuid": "57321516-2148-42ab-8480-9c1bbead77d6",
-        "name": "Contract – Payment received is other than daily wage / hour rate (Weekly / Fortnightly / Monthly) through contractor or establishment, though calculations maybe based on daily rate/hours"
+        "name": "Contract - Payment received is other than daily wage / hour rate (Weekly / Fortnightly / Monthly) through contractor or establishment, though calculations maybe based on daily rate/hours"
       },
       {
         "uuid": "ad55c4d9-9637-43cf-a948-c8bd2d229900",
-        "name": "Employee – Employed with government or private organization, having social security benefits"
+        "name": "Employee - Employed with government or private organization, having social security benefits"
       },
       {
         "uuid": "bcc5897a-3125-4086-b260-c2a3136dd9ca",
-        "name": "Daily wage – Payment is received daily / hour rate"
+        "name": "Daily wage - Payment is received daily / hour rate"
       }
     ]
   },
@@ -2873,7 +2873,7 @@
     "dataType": "Text"
   },
   {
-    "name": "Are you registered with Employees’ State Insurance (ESI)?",
+    "name": "Are you registered with Employees' State Insurance (ESI)?",
     "uuid": "b09cf665-e5bb-4664-abc4-a889f2c16ffb",
     "dataType": "Coded",
     "answers": [
@@ -3056,7 +3056,7 @@
   },
   {
     "uuid": "4c8ff881-e8e9-4b55-b5ab-260a0fb0b4fa",
-    "name": "Don’t Know"
+    "name": "Don't Know"
   },
   {
     "name": "Do you get old age pension (OAP)?",
@@ -3073,7 +3073,7 @@
       },
       {
         "uuid": "4c8ff881-e8e9-4b55-b5ab-260a0fb0b4fa",
-        "name": "Don’t Know"
+        "name": "Don't Know"
       }
     ]
   },
@@ -3092,7 +3092,7 @@
       },
       {
         "uuid": "4c8ff881-e8e9-4b55-b5ab-260a0fb0b4fa",
-        "name": "Don’t Know"
+        "name": "Don't Know"
       }
     ]
   },
@@ -4010,7 +4010,7 @@
   },
   {
     "uuid": "a2e91670-efa3-41ae-a7b3-209883a0dc07",
-    "name": "Between Rs. 100 – 200 per day"
+    "name": "Between Rs. 100 - 200 per day"
   },
   {
     "uuid": "93b0c7f5-e1d2-496c-8cf7-8f0498b1844d",
@@ -4039,7 +4039,7 @@
     "answers": [
       {
         "uuid": "a2e91670-efa3-41ae-a7b3-209883a0dc07",
-        "name": "Between Rs. 100 – 200 per day"
+        "name": "Between Rs. 100 - 200 per day"
       },
       {
         "uuid": "93b0c7f5-e1d2-496c-8cf7-8f0498b1844d",
