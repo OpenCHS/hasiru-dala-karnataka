@@ -576,10 +576,9 @@
     {
       "uuid": "d53cb674-3741-4677-9250-c2e150bcd263,",
       "name": "Migration Address Proof",
-      "display":  "Migration Address Proof",
-      "displayOrder":6.5,
+      "display": "Migration Address Proof",
+      "displayOrder": 6.5,
       "formElements": [
-
         {
           "name": "Do you have a local address proof?",
           "uuid": "39deaffe-d3f0-4aca-b34c-6b4f00830dcf",
@@ -624,10 +623,6 @@
         }
       ]
     },
-
-
-
-
     {
       "uuid": "8849b18e-eb62-4229-b379-35eb84b404c6",
       "name": "Informal Worker",
@@ -746,7 +741,6 @@
           "displayOrder": 5,
           "mandatory": false
         }
-
       ]
     },
     {
@@ -865,7 +859,6 @@
           "displayOrder": 19,
           "mandatory": true
         },
-
         {
           "name": "Upload Photo of PAN Card",
           "uuid": "bf3f8450-bca2-4177-b275-c3c8dda13d52",
@@ -2251,7 +2244,6 @@
           "displayOrder": 3.5,
           "mandatory": false
         },
-
         {
           "name": "Have you or any one in your house enrolled in a government sponsored health insurance scheme?",
           "uuid": "9ffe5738-aee0-4e66-9bf4-9e58be6ec89b",
@@ -2803,7 +2795,6 @@
           },
           "displayOrder": 1,
           "mandatory": true
-
         },
         {
           "name": "How do you transport your collected waste?",
@@ -3414,7 +3405,6 @@
           "displayOrder": 1,
           "mandatory": true,
           "voided": true
-
         },
         {
           "name": "Source of additional income",
@@ -3471,7 +3461,7 @@
           "name": "Do you carry the waste after sweeping?",
           "uuid": "493b4d10-34b7-4ed6-8feb-a8509bcf8eee",
           "keyValues": [],
-          "type":  "SingleSelect",
+          "type": "SingleSelect",
           "concept": {
             "uuid": "e6c84945-d3ee-4350-a999-1a0ee0cf9cec"
           },

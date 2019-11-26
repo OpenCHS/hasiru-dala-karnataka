@@ -6745,25 +6745,21 @@
     "name": "Please upload the doctor's certificate",
     "uuid": "744117e0-fd3e-4f92-a776-57750774772e",
     "dataType": "Image"
-
   },
   {
     "name": "Photo of the person",
     "uuid": "8756c196-0333-4eda-aed5-8a3c69ed6dbb",
     "dataType": "Image"
-
   },
   {
     "name": "Upload Photo of id",
     "uuid": "4f60af9f-fe12-43c3-b1da-d72ddc481752",
     "dataType": "Image"
-
   },
   {
     "name": "Upload Photo of Other Card",
     "uuid": "1b71c0ad-f261-4ddf-9513-8af340acbf53",
     "dataType": "Image"
-
   },
   {
     "name": "Please explain (Name of the old age pension scheme, Amount and Frequency)",
@@ -6819,18 +6815,20 @@
     "name": "Upload Photo of PAN Card",
     "uuid": "4f7f1fce-142a-432c-bd4a-e72e6b3bbfd9",
     "dataType": "Image"
-  },{
+  },
+  {
     "name": "Upload Photo of Driving License Card",
     "uuid": "178b675a-6373-4f01-8035-8c0aa2e66bcd",
     "dataType": "Image"
-  },{
+  },
+  {
     "name": "Upload Photo of Income Certificate",
     "uuid": "5296ba3a-d710-4a6a-9289-01a36203457e",
     "dataType": "Image"
-  },{
+  },
+  {
     "name": "Upload Photo of Cast certificate",
     "uuid": "e12f5b16-088c-4406-996b-ecb3a09126b0",
     "dataType": "Image"
   }
-
 ]
