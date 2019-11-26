@@ -4282,10 +4282,6 @@
     "name": "Minidoor Auto"
   },
   {
-    "uuid": "4ce925f1-01a8-4e7a-819d-8cf763134ef5",
-    "name": "Hand Cart"
-  },
-  {
     "uuid": "75b6004e-7458-4c8c-b611-3d5dc067875f",
     "name": "Auto tipper"
   },
@@ -4307,7 +4303,7 @@
         "name": "Minidoor Auto"
       },
       {
-        "uuid": "4ce925f1-01a8-4e7a-819d-8cf763134ef5",
+        "uuid": "9195e81b-23aa-4a72-8459-85c2281cbc45",
         "name": "Hand Cart"
       },
       {
@@ -4447,10 +4443,6 @@
     "name": "6 - 8 hours"
   },
   {
-    "uuid": "f9d4c0ed-98c6-4dea-a16e-9aef7f6a763d",
-    "name": "more than 8 hours"
-  },
-  {
     "name": "How many hours do you work in a day?",
     "uuid": "353ea629-c72a-4c3f-831d-75c6a3a74626",
     "dataType": "Coded",
@@ -4468,7 +4460,7 @@
         "name": "6 - 8 hours"
       },
       {
-        "uuid": "f9d4c0ed-98c6-4dea-a16e-9aef7f6a763d",
+        "uuid": "592d8b2f-b4ec-478b-8dd8-4e773e7035d4",
         "name": "more than 8 hours"
       }
     ]
@@ -4622,7 +4614,7 @@
       },
       {
         "name": "No Response",
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df"
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb"
       }
     ]
   },
@@ -4663,7 +4655,7 @@
         "name": "Minidoor Auto"
       },
       {
-        "uuid": "4ce925f1-01a8-4e7a-819d-8cf763134ef5",
+        "uuid": "9195e81b-23aa-4a72-8459-85c2281cbc45",
         "name": "Hand Cart"
       },
       {
@@ -4874,10 +4866,6 @@
     "name": "Always"
   },
   {
-    "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
-    "name": "No response"
-  },
-  {
     "uuid": "a6872113-b90c-4141-b3b2-1d4fe779cf36",
     "name": "Sometimes"
   },
@@ -4899,7 +4887,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -5069,7 +5057,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -5092,7 +5080,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -5119,7 +5107,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -5174,7 +5162,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -5350,7 +5338,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -5373,7 +5361,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -5396,7 +5384,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -5419,7 +5407,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -5442,7 +5430,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -5465,7 +5453,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -5488,7 +5476,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -5511,7 +5499,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -5534,7 +5522,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -5843,7 +5831,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
@@ -6001,7 +5989,7 @@
         "name": "Sometimes"
       },
       {
-        "uuid": "2c747614-b51e-44a1-b8eb-4264074a65df",
+        "uuid": "b5bcaa38-9789-4cb9-9001-3ec4db9547bb",
         "name": "No response"
       }
     ]
