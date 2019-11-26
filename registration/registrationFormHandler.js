@@ -16,7 +16,7 @@ const WithRegistrationStatusBuilder = StatusBuilderAnnotationFactory('individual
 const RegistrationViewFilter = RuleFactory("09d48e95-b4bc-44a5-8af0-c5971fe4cb1d", "ViewFilter");
 
 
-@RegistrationViewFilter("f33f4ded-3d29-4037-8610-3fdb037db578", "Hasiru Dala Registration View Filter", 100.0, {})
+@RegistrationViewFilter("43f07e67-3959-45da-9c9f-c34c4555086a", "Hasiru Dala Registration View Filter", 100.0, {})
 class RegistrationViewHandlerHasiruDala {
     static exec(individual, formElementGroup) {
         return FormElementsStatusHelper
