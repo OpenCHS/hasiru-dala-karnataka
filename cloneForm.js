@@ -33,13 +33,6 @@ concepts.forEach(concept => {
     // console.log(`test: ${flag}`);
 });
 
-form.formElementGroups.forEach(feg => {
-    feg.uuid = uuidv4();
-    feg.formElements.forEach(fe => {
-        fe.uuid = uuidv4();
-    })
-});
-
 console.log(JSON.stringify(concepts));
 console.log("==================");
 console.log(JSON.stringify(form));
