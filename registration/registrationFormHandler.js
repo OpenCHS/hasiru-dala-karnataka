@@ -3553,15 +3553,6 @@ class RegistrationViewHandlerHasiruDala {
             .and.when.valueInRegistration("Please select from the list").containsAnswerConceptName("Others");
     }
 
-    @WithName("Please select the type of local address proof")
-    @WithName("Name of local ID")
-    @WithName("Local ID description")
-
-
-    @WithRegistrationStatusBuilder
-    training4([], statusBuilder) {
-        statusBuilder.show().when.valueInRegistration("Do you have a local address proof?").containsAnswerConceptName('Yes')
-    }
 
     // // @WithName("Upload Photo of id")
     // @WithRegistrationStatusBuilder
@@ -3584,26 +3575,18 @@ class RegistrationViewHandlerHasiruDala {
         statusBuilder.show().when.valueInRegistration("Please choose the type of respondent").containsAnswerConceptNameOtherThan("Relative Living with Worker / Informal Worker (Not Dependent)");
 
     }
-
     @WithName("Please select the type of local address proof")
-    @WithRegistrationStatusBuilder
-    phid123([], statusBuilder) {
-        statusBuilder.show().when.valueInRegistration("Please choose the type of respondent").containsAnswerConceptNameOtherThan("Relative Living with Worker / Informal Worker (Not Dependent)");
 
+    @WithRegistrationStatusBuilder
+    training4([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Do you have a local address proof?").containsAnswerConceptName('Yes')
     }
 
     @WithName("Name of local ID")
-    @WithRegistrationStatusBuilder
-    phid124([], statusBuilder) {
-        statusBuilder.show().when.valueInRegistration("Please choose the type of respondent").containsAnswerConceptNameOtherThan("Relative Living with Worker / Informal Worker (Not Dependent)");
-
-    }
-
     @WithName("Local ID description")
     @WithRegistrationStatusBuilder
-    phid125([], statusBuilder) {
-        statusBuilder.show().when.valueInRegistration("Please choose the type of respondent").containsAnswerConceptNameOtherThan("Relative Living with Worker / Informal Worker (Not Dependent)");
-
+    training411([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Please select the type of local address proof").containsAnswerConceptName('Others')
     }
 
     @WithName("Upload Photo of Voter Id")

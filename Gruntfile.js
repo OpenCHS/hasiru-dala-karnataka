@@ -53,7 +53,8 @@ module.exports = IDI.configure({
         ],
         "organisationConfig": ["organisationConfig.json"],
         "translations": [
-            "translations/en.json"
+            "translations/en.json",
+            "translations/ka_IN.json"
         ]
     }
 }, rulesConfigInfra);
